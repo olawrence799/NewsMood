@@ -1,0 +1,585 @@
+Compound_Score,Neg_Score,Neu_Score,Pos_Score,Timestamp,Tweet_Text,Tweets_Ago,User
+-0.5574,0.118,0.882,0.0,Mon Jan 08 22:31:10 +0000 2018,"RT @BBCSport: Widnes Vikings' Kato Ottio has died at the age of 23.
+
+He was due to travel to the UK next week in preparation for the start…",1,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 22:21:04 +0000 2018,North and South Korea to begin high-level talks https://t.co/LL7q3bnNvF,2,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 22:07:47 +0000 2018,Google sued over 'male discrimination' https://t.co/eu2lUxcE1p,3,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 21:22:53 +0000 2018,Rugby League player Ottio dies aged 23 https://t.co/SvQfsQC5si,4,BBCWorld
+-0.3923,0.164,0.744,0.092,Mon Jan 08 21:20:13 +0000 2018,"RT @BBCNorthAmerica: - Sad!
+- Bigly? Or big league?
+- Covfefe
+10 words and phrases invented or popularised by President Trump
+
+https://t.co…",5,BBCWorld
+-0.7717,0.242,0.758,0.0,Mon Jan 08 21:09:40 +0000 2018,"RT @BBCSport: Widnes Vikings centre Kato Ottio has died at the age of 23 after suffering ""a sudden health issue"" in training.
+https://t.co/…",6,BBCWorld
+-0.5719,0.485,0.515,0.0,Mon Jan 08 19:26:48 +0000 2018,'Raw water': A dangerous new health craze? https://t.co/ITwXnTzt2y,7,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 18:44:08 +0000 2018,Ghana bars recruits over stretch marks and bleached skin https://t.co/KQxK3LPS6y,8,BBCWorld
+-0.8176,0.586,0.414,0.0,Mon Jan 08 18:36:15 +0000 2018,Egypt police detained after custody death triggers protests https://t.co/K8OExRAhN4,9,BBCWorld
+-0.5574,0.34,0.66,0.0,Mon Jan 08 18:23:20 +0000 2018,Bangladesh court upholds Myanmar Rohingya marriage ban https://t.co/rWzDsp9V94,10,BBCWorld
+-0.5423,0.304,0.696,0.0,Mon Jan 08 18:15:21 +0000 2018,Prisoner wakes up in mortuary in Asturias Spain https://t.co/H602fJ10NI,11,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 17:34:37 +0000 2018,"RT @awzurcher: Winfrey vs Trump may not be the 2020 presidential race America needs, but it's the one it deserves. https://t.co/oWjWS8H7g2",12,BBCWorld
+-0.3182,0.277,0.723,0.0,Mon Jan 08 17:04:17 +0000 2018,A child interrupts an Al Jazeera interview https://t.co/UNYXC5MbNk,13,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 16:51:06 +0000 2018,Juncker: Don't believe Brexit won't happen https://t.co/p5w6PA4zBw,14,BBCWorld
+-0.0516,0.107,0.893,0.0,Mon Jan 08 16:35:02 +0000 2018,"Trump to say 200,000 El Salvadorans must leave the US https://t.co/j3SmbjADP0",15,BBCWorld
+-0.6908,0.439,0.561,0.0,Mon Jan 08 16:03:09 +0000 2018,Somaliland passes first law against rape https://t.co/6jfghHIilr,16,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 15:47:31 +0000 2018,Iran bans English from being taught in primary schools https://t.co/fYEaZ7YbUD,17,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 15:00:59 +0000 2018,Firefighters tackle Trump Tower blaze in New York https://t.co/L2zA8IoHgL,18,BBCWorld
+0.6486,0.0,0.773,0.227,Mon Jan 08 14:49:50 +0000 2018,Oprah for President? Her passionate speech about race and sexism at the #GoldenGlobes has left some wishing she'd r… https://t.co/8OKcziYIwR,19,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 14:49:24 +0000 2018,Apple investors urge action on 'smartphone addiction' https://t.co/jvhc9P7kMA,20,BBCWorld
+-0.5574,0.118,0.882,0.0,Mon Jan 08 22:31:10 +0000 2018,"RT @BBCSport: Widnes Vikings' Kato Ottio has died at the age of 23.
+
+He was due to travel to the UK next week in preparation for the start…",21,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 22:21:04 +0000 2018,North and South Korea to begin high-level talks https://t.co/LL7q3bnNvF,22,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 22:07:47 +0000 2018,Google sued over 'male discrimination' https://t.co/eu2lUxcE1p,23,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 21:22:53 +0000 2018,Rugby League player Ottio dies aged 23 https://t.co/SvQfsQC5si,24,BBCWorld
+-0.3923,0.164,0.744,0.092,Mon Jan 08 21:20:13 +0000 2018,"RT @BBCNorthAmerica: - Sad!
+- Bigly? Or big league?
+- Covfefe
+10 words and phrases invented or popularised by President Trump
+
+https://t.co…",25,BBCWorld
+-0.7717,0.242,0.758,0.0,Mon Jan 08 21:09:40 +0000 2018,"RT @BBCSport: Widnes Vikings centre Kato Ottio has died at the age of 23 after suffering ""a sudden health issue"" in training.
+https://t.co/…",26,BBCWorld
+-0.5719,0.485,0.515,0.0,Mon Jan 08 19:26:48 +0000 2018,'Raw water': A dangerous new health craze? https://t.co/ITwXnTzt2y,27,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 18:44:08 +0000 2018,Ghana bars recruits over stretch marks and bleached skin https://t.co/KQxK3LPS6y,28,BBCWorld
+-0.8176,0.586,0.414,0.0,Mon Jan 08 18:36:15 +0000 2018,Egypt police detained after custody death triggers protests https://t.co/K8OExRAhN4,29,BBCWorld
+-0.5574,0.34,0.66,0.0,Mon Jan 08 18:23:20 +0000 2018,Bangladesh court upholds Myanmar Rohingya marriage ban https://t.co/rWzDsp9V94,30,BBCWorld
+-0.5423,0.304,0.696,0.0,Mon Jan 08 18:15:21 +0000 2018,Prisoner wakes up in mortuary in Asturias Spain https://t.co/H602fJ10NI,31,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 17:34:37 +0000 2018,"RT @awzurcher: Winfrey vs Trump may not be the 2020 presidential race America needs, but it's the one it deserves. https://t.co/oWjWS8H7g2",32,BBCWorld
+-0.3182,0.277,0.723,0.0,Mon Jan 08 17:04:17 +0000 2018,A child interrupts an Al Jazeera interview https://t.co/UNYXC5MbNk,33,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 16:51:06 +0000 2018,Juncker: Don't believe Brexit won't happen https://t.co/p5w6PA4zBw,34,BBCWorld
+-0.0516,0.107,0.893,0.0,Mon Jan 08 16:35:02 +0000 2018,"Trump to say 200,000 El Salvadorans must leave the US https://t.co/j3SmbjADP0",35,BBCWorld
+-0.6908,0.439,0.561,0.0,Mon Jan 08 16:03:09 +0000 2018,Somaliland passes first law against rape https://t.co/6jfghHIilr,36,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 15:47:31 +0000 2018,Iran bans English from being taught in primary schools https://t.co/fYEaZ7YbUD,37,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 15:00:59 +0000 2018,Firefighters tackle Trump Tower blaze in New York https://t.co/L2zA8IoHgL,38,BBCWorld
+0.6486,0.0,0.773,0.227,Mon Jan 08 14:49:50 +0000 2018,Oprah for President? Her passionate speech about race and sexism at the #GoldenGlobes has left some wishing she'd r… https://t.co/8OKcziYIwR,39,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 14:49:24 +0000 2018,Apple investors urge action on 'smartphone addiction' https://t.co/jvhc9P7kMA,40,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 14:32:05 +0000 2018,"RT @BBC_HaveYourSay: Winfrey for the White House? Nearly 30,000 tweets on the pros and cons of her candidacy
+
+https://t.co/Jfsir1izxM",41,BBCWorld
+-0.6369,0.426,0.574,0.0,Mon Jan 08 14:28:46 +0000 2018,"Iran protests: Demonstrator, 22, dies in Tehran prison https://t.co/4iiR6odTdq",42,BBCWorld
+0.1531,0.0,0.885,0.115,Mon Jan 08 14:26:05 +0000 2018,"RT @bbcstories: ""In that moment, as he tattooed her number on her left arm, she tattooed her number in his heart.""
+https://t.co/afrzFA75li",43,BBCWorld
+0.5106,0.0,0.732,0.268,Mon Jan 08 14:19:47 +0000 2018,"US Marines rescue their helicopter... with a BIGGER one 🚁
+
+https://t.co/jgHujdq1Hi https://t.co/Vy5S54OZTC",44,BBCWorld
+-0.0516,0.19,0.634,0.176,Mon Jan 08 14:06:02 +0000 2018,Mindy Kaling: US army deletes Twitter like 'mocking Donald Trump' https://t.co/I146jqRRbP,45,BBCWorld
+-0.5574,0.265,0.735,0.0,Mon Jan 08 13:24:37 +0000 2018,Deniz Naki: Shots fired at Kurdish footballer's car in Germany https://t.co/mp15dTxEpk,46,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 13:16:44 +0000 2018,Chinese dating apps closed after women revealed to be robots https://t.co/j9yQTHmi2a,47,BBCWorld
+0.6369,0.0,0.755,0.245,Mon Jan 08 13:08:45 +0000 2018,"RT @BBC_HaveYourSay: All in one day: Groom combines proposal and wedding ceremony to help ease bride's anxiety💍👰
+https://t.co/jRjwrmMcir",48,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 10:59:12 +0000 2018,Ex-Malaysia PM Mahathir to run again for office aged 92 https://t.co/8Faqvv5Fi2,49,BBCWorld
+0.5106,0.0,0.708,0.292,Mon Jan 08 10:59:12 +0000 2018,US Marines rescue their helicopter... with a bigger one https://t.co/lrfLo9LqtX,50,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 10:55:41 +0000 2018,Gaza conjoined twins survive separation surgery https://t.co/3znWL742nN,51,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 10:34:27 +0000 2018,Has Lana Del Rey copied Radiohead's Creep? https://t.co/EGmFfi1QI8,52,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 10:34:24 +0000 2018,CES 2018: LG Display shows off large rollable TV screen https://t.co/Symg7Q2mEH,53,BBCWorld
+0.3691,0.147,0.602,0.25,Mon Jan 08 10:10:22 +0000 2018,Borussia Dortmund bus bombing suspect 'did not intend to kill' https://t.co/yE3hiXHz6w,54,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 10:08:16 +0000 2018,"""It's not just about our industry, it's about every industry and also every woman around the world.""
+
+Why stars wor… https://t.co/Uu4EVqLAc3",55,BBCWorld
+0.0,0.188,0.625,0.188,Mon Jan 08 09:19:30 +0000 2018,Vietnam energy executives stand trial on corruption charges https://t.co/5kIGkOCIgH,56,BBCWorld
+-0.4215,0.286,0.714,0.0,Mon Jan 08 08:51:35 +0000 2018,Craig McLachlan: Actor denies sexual misconduct allegations https://t.co/gJUmB5pSJr,57,BBCWorld
+-0.1901,0.074,0.926,0.0,Mon Jan 08 08:25:12 +0000 2018,"RT @BBCBenThompson: A new report says we're still spending on booze, cars and stuff for our houses - but we're cutting back on other items.…",58,BBCWorld
+0.4215,0.0,0.882,0.118,Mon Jan 08 07:43:42 +0000 2018,"""A new day is on the horizon. When nobody ever has to say 'me too' again."" 
+
+Powerful speeches and statements from… https://t.co/Iwhf2agWQm",59,BBCWorld
+0.128,0.129,0.723,0.149,Mon Jan 08 07:40:12 +0000 2018,British actor Gary Oldman won the #GoldenGlobes for his portrayal as Winston Churchill in Darkest Hour. And he than… https://t.co/IN1vgNrm6C,60,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 07:34:39 +0000 2018,Golden Globes: Stars use speeches to call for change https://t.co/hcLedIXluH,61,BBCWorld
+-0.1027,0.104,0.896,0.0,Mon Jan 08 07:34:36 +0000 2018,BBC China editor Carrie Gracie has quit her post over equal pay https://t.co/D6LKOcU5pI,62,BBCWorld
+0.6901,0.098,0.622,0.28,Mon Jan 08 07:20:06 +0000 2018,Big Little Lies actress Laura Dern won her fourth #GoldenGlobes award on Sunday. She invited the co-founder of… https://t.co/HqnLs0kIXw,63,BBCWorld
+0.5719,0.0,0.829,0.171,Mon Jan 08 07:02:06 +0000 2018,".@Oprah is the first black woman to receive the #GoldenGlobes lifetime achievement honour. She said she is ""humbled… https://t.co/N9KYsChUSA",64,BBCWorld
+-0.3626,0.122,0.878,0.0,Mon Jan 08 06:45:03 +0000 2018,Here's what Big Little Lies star and executive producer @RWitherspoon had to say about the #GoldenGlobes dominant t… https://t.co/qmivkYJVud,65,BBCWorld
+-0.7351,0.471,0.441,0.088,Mon Jan 08 06:40:29 +0000 2018,Golden Globes 2018: Sexual harassment scandal dominates ceremony https://t.co/LVXjngEOMV,66,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 06:10:22 +0000 2018,Golden Globes 2018: Why stars wore black on the red carpet https://t.co/P4LUZTeOFQ,67,BBCWorld
+-0.7845,0.496,0.504,0.0,Mon Jan 08 05:55:18 +0000 2018,China oil spill sparks fears of environmental disaster https://t.co/FhvXSbdwo3,68,BBCWorld
+-0.6369,0.344,0.656,0.0,Mon Jan 08 05:21:31 +0000 2018,Cardinal Pell: Man who made abuse allegation dies https://t.co/52ndskyYU6,69,BBCWorld
+0.34,0.0,0.769,0.231,Mon Jan 08 05:21:31 +0000 2018,Winter Olympics targeted by hackers says security firm https://t.co/PgIiXB2iyJ,70,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 04:34:52 +0000 2018,"RT @BBCNewsAsia: #BTSARMY, this one's for you. 💕
+
+What's in store for the princes of K-pop in 2018? https://t.co/a8AJEGnMwS
+
+👨‍🎤👨‍🎤👨‍🎤👨‍🎤👨‍…",71,BBCWorld
+0.836,0.0,0.622,0.378,Mon Jan 08 04:08:44 +0000 2018,"RT @BBCBreaking: Three Billboards Outside Ebbing, Missouri wins 'Best Motion Picture - Drama'
+
+#GoldenGlobes https://t.co/EYJJHWbjY6 https:…",72,BBCWorld
+0.836,0.0,0.695,0.305,Mon Jan 08 04:03:53 +0000 2018,"RT @BBCBreaking: Frances McDormand wins 'Best Actress in a Motion Picture - Drama' for her role in Three Billboards Outside Ebbing, Missour…",73,BBCWorld
+0.836,0.0,0.603,0.397,Mon Jan 08 03:53:58 +0000 2018,"RT @BBCBreaking: Gary Oldman wins 'Best Actor in a Motion Picture - Drama' 
+
+#GoldenGlobes https://t.co/068UHmydVC https://t.co/aePg1yXPrl",74,BBCWorld
+0.836,0.0,0.559,0.441,Mon Jan 08 03:46:21 +0000 2018,"RT @BBCBreaking: Lady Bird wins 'Best Motion Picture - Comedy/Musical' 
+
+#GoldenGlobes https://t.co/QrKvMydAKS https://t.co/8cBGj7mkcm",75,BBCWorld
+0.836,0.0,0.683,0.317,Mon Jan 08 03:38:11 +0000 2018,"RT @BBCBreaking: Saoirse Ronan wins 'Best Actress in a Comedy/Musical Motion Picture' for her role in Lady Bird
+
+#GoldenGlobes https://t.co…",76,BBCWorld
+0.7579,0.0,0.711,0.289,Mon Jan 08 03:34:06 +0000 2018,.@Oprah's acceptance speech for the Cecil B. DeMille Award at this year's #GoldenGlobes drew a standing ovation fro… https://t.co/CmO7nDRQpX,77,BBCWorld
+-0.6486,0.48,0.339,0.181,Mon Jan 08 03:12:05 +0000 2018,"Heart attack care dangerously unequal for women, study finds https://t.co/om2OzlLrbX",78,BBCWorld
+0.7964,0.132,0.488,0.38,Mon Jan 08 02:53:04 +0000 2018,"Laura Dern, winner of Best Supporting Actress for her role in @Big_Little_Lies, address sexual assault survivors in… https://t.co/xzehCnUiTy",79,BBCWorld
+0.836,0.0,0.669,0.331,Mon Jan 08 02:50:08 +0000 2018,"RT @BBCBreaking: Ewan McGregor wins 'Best Actor in a Television Miniseries' for his role in Fargo
+
+#GoldenGlobes https://t.co/Ow1hcEIybA ht…",80,BBCWorld
+0.836,0.0,0.603,0.397,Mon Jan 08 02:11:16 +0000 2018,"RT @BBCBreaking: James Franco wins 'Best Actor in a Comedy/Musical Motion Picture'
+
+#GoldenGlobes https://t.co/9ws5IWhSCr https://t.co/bwSj…",81,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 01:58:23 +0000 2018,Bitcoin blip https://t.co/EPXfAvFDmP,82,BBCWorld
+0.836,0.0,0.639,0.361,Mon Jan 08 01:57:36 +0000 2018,#GoldenGlobes: Actress Elisabeth Moss wins best actress in a drama series for her role in @handmaidsonhulu… https://t.co/hh9HYeX6rh,83,BBCWorld
+0.25,0.0,0.6,0.4,Mon Jan 08 01:03:48 +0000 2018,Plays behind bars https://t.co/K2Lx1O5qCs,84,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 01:00:39 +0000 2018,Out of power https://t.co/INCQoUPxgd,85,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 00:56:59 +0000 2018,Tattooist of Auschwitz https://t.co/uycegYsPx8,86,BBCWorld
+-0.5255,0.531,0.469,0.0,Mon Jan 08 00:49:20 +0000 2018,"Bigly, covfefe, sad! https://t.co/QJ8MnsPhvM",87,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 00:45:50 +0000 2018,Child bride to wrestling star https://t.co/pJvS8sMkH6,88,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 00:45:50 +0000 2018,Dubai to build new record-breaking skyscraper https://t.co/1bihFI529P,89,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 00:34:44 +0000 2018,"A blackout on the Red Carpet for the 75th #GoldenGlobes:
+Celebrities are dressed from head to toe in black to in su… https://t.co/ZRIkBTmMB8",90,BBCWorld
+-0.8126,0.425,0.575,0.0,Sun Jan 07 23:48:35 +0000 2018,Syria war: Explosion reportedly kills at least 23 in rebel-held Idlib https://t.co/tmLUnASoyN,91,BBCWorld
+-0.7003,0.42,0.58,0.0,Sun Jan 07 23:28:26 +0000 2018,Brazil drug lord accused of deadly jail riot seized https://t.co/XAbbeaCCvo,92,BBCWorld
+0.0,0.0,1.0,0.0,Sun Jan 07 19:02:10 +0000 2018,Israel dig unearths prehistoric 'paradise' https://t.co/AnliOKszrK,93,BBCWorld
+0.1027,0.245,0.472,0.283,Sun Jan 07 18:24:10 +0000 2018,Ireland hosts festive tree throwing battle https://t.co/7upSKkFntg,94,BBCWorld
+-0.7269,0.466,0.534,0.0,Sun Jan 07 17:28:47 +0000 2018,Fire and Fury: Trump allies dismiss 'fantasy book' https://t.co/nQK19Golof,95,BBCWorld
+0.0258,0.141,0.706,0.153,Sun Jan 07 17:24:52 +0000 2018,Egypt's ex-PM backs out of Sisi challenge https://t.co/p7HUNkeugg,96,BBCWorld
+-0.7322,0.323,0.677,0.0,Sun Jan 07 17:22:12 +0000 2018,"""The smoke is so thick... it's blocking out the sun"" - South Australia fire tears through farm land… https://t.co/dbVe4f9hPr",97,BBCWorld
+-0.4019,0.231,0.769,0.0,Sun Jan 07 16:27:02 +0000 2018,RT @BBC_HaveYourSay: Iranian unrest is unleashed on a new battleground https://t.co/asrfWWIyMd,98,BBCWorld
+-0.3182,0.292,0.511,0.197,Sun Jan 07 15:49:42 +0000 2018,Boris Becker responds to 'clearly racist' AfD tweet https://t.co/4fznvJB4Rs,99,BBCWorld
+0.4939,0.0,0.738,0.262,Sun Jan 07 14:31:33 +0000 2018,Stockholm station blast: Man dies in 'hand grenade' explosion https://t.co/SOey7jyCea,100,BBCWorld
+0.0,0.0,1.0,0.0,Mon Jan 08 18:07:57 +0000 2018,RT @startrekcbs: #StarTrekDiscovery is back! Episode 10 is now streaming on CBS All Access: https://t.co/xPeb97Rs8J https://t.co/Uvgab7nGgS,1,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 14:34:48 +0000 2018,"New year, new case. Watch the latest episode of #NCISLA now: https://t.co/1rAsX4EsiB https://t.co/QzRZcORK9r",2,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 14:29:20 +0000 2018,RT @AmazingRaceCBS: Which teams are zipping through the first leg of the #AmazingRace? https://t.co/8isAwPyrLY,3,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 00:29:51 +0000 2018,RT @MadamSecretary: Is VP Hurst going to work with or against Elizabeth? Stream a new #MadamSecretary live with CBS All Access: https://t.c…,4,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 20:05:17 +0000 2018,"RT @debrabirnbaum: .@ShawnRyanTV: To me, being on CBS is the opposite of preaching to the choir. #TCA18",5,CBS
+0.8271,0.0,0.686,0.314,Sat Jan 06 19:04:08 +0000 2018,RT @LivinBiblically: “The truth is it somehow gorgeously straddles both sides...I have had friends come from all different walks of life an…,6,CBS
+-0.7717,0.226,0.774,0.0,Sat Jan 06 19:03:38 +0000 2018,RT @instinctcbs: “This is a crime show where at the end you’re not reminded of how miserable things are in the world right now…You feel sat…,7,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 00:37:55 +0000 2018,"RT @startrekcbs: Star Trek has touched the lives of generations of fans, including the cast and writers of #StarTrekDiscovery. What's your…",8,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 00:30:53 +0000 2018,#StrangeAngel has found its leading man! Jack Reynor will star as famed rocket engineer Jack Parsons in the upcomin… https://t.co/sHkSKABGfd,9,CBS
+0.0,0.0,1.0,0.0,Fri Jan 05 18:30:42 +0000 2018,"The streak of new episodes continues! Watch new episodes of #MacGyver, #H50 &amp; #BlueBloods tonight starting at 8/7c.… https://t.co/xs2vbVqBJZ",10,CBS
+0.0,0.0,1.0,0.0,Fri Jan 05 16:05:58 +0000 2018,"RT @CBSTweet: #CBSRatingsNews: CBS Sweeps Fourth Quarter Ratings in Daytime, Primetime and Late Night for the First Time Since 2009 https:/…",11,CBS
+0.1867,0.0,0.89,0.11,Thu Jan 04 23:13:02 +0000 2018,"New year, new episodes! Don't miss all-new episodes of @BigBangTheory, @YoungSheldon, @MomCBS, @LifeInPiecesCBS, an… https://t.co/COf6Qg8Mz1",12,CBS
+-0.296,0.121,0.879,0.0,Thu Jan 04 14:43:09 +0000 2018,"Current nominees @LadyGaga, @LittleBigTown, @Pink, Childish Gambino and more will perform live at the #GRAMMYs, Jan… https://t.co/PlLMasNPwD",13,CBS
+0.5423,0.0,0.821,0.179,Wed Jan 03 20:33:09 +0000 2018,"RT @startrekcbs: From Airiam to Zefram Cochrane, #StarTrekDiscovery features fascinating new concepts along with classic references. What's…",14,CBS
+-0.5267,0.167,0.833,0.0,Wed Jan 03 19:51:15 +0000 2018,Torres and Bishop went undercover as a criminal couple on the latest episode of #NCIS. Catch up now:… https://t.co/1iTEneHyJS,15,CBS
+0.5423,0.0,0.857,0.143,Wed Jan 03 15:00:05 +0000 2018,Do you know all the nominees for Artist Of The Year? Get familiar with this year's GRAMMY® Award nominees ahead of… https://t.co/UQa8Mu9PUV,16,CBS
+0.0,0.0,1.0,0.0,Wed Jan 03 12:00:01 +0000 2018,"The new year of new episodes continues tonight with all-new episodes of #AmazingRace, #SEALTeam and #CriminalMinds… https://t.co/bwhNhQgsFC",17,CBS
+-0.7692,0.267,0.733,0.0,Wed Jan 03 00:47:26 +0000 2018,"RT @BullCBS: Tonight, can #Bull prove that a teen accused of robbing a jewelry store isn't responsible for the crime? Tune in at 9/8c or st…",18,CBS
+0.8516,0.0,0.66,0.34,Tue Jan 02 22:41:51 +0000 2018,It's your last chance to choose the pro football player with the best off-the-field talent! Vote now to decide who… https://t.co/6DjwqU0MB9,19,CBS
+0.0,0.0,1.0,0.0,Tue Jan 02 08:00:03 +0000 2018,"New year, new episodes -- all week long! It kicks off with an all-new #NCIS, #Bull and #NCISNOLA tonight starting a… https://t.co/bcmAaUQJtf",20,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 18:07:57 +0000 2018,RT @startrekcbs: #StarTrekDiscovery is back! Episode 10 is now streaming on CBS All Access: https://t.co/xPeb97Rs8J https://t.co/Uvgab7nGgS,21,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 14:34:48 +0000 2018,"New year, new case. Watch the latest episode of #NCISLA now: https://t.co/1rAsX4EsiB https://t.co/QzRZcORK9r",22,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 14:29:20 +0000 2018,RT @AmazingRaceCBS: Which teams are zipping through the first leg of the #AmazingRace? https://t.co/8isAwPyrLY,23,CBS
+0.0,0.0,1.0,0.0,Mon Jan 08 00:29:51 +0000 2018,RT @MadamSecretary: Is VP Hurst going to work with or against Elizabeth? Stream a new #MadamSecretary live with CBS All Access: https://t.c…,24,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 20:05:17 +0000 2018,"RT @debrabirnbaum: .@ShawnRyanTV: To me, being on CBS is the opposite of preaching to the choir. #TCA18",25,CBS
+0.8271,0.0,0.686,0.314,Sat Jan 06 19:04:08 +0000 2018,RT @LivinBiblically: “The truth is it somehow gorgeously straddles both sides...I have had friends come from all different walks of life an…,26,CBS
+-0.7717,0.226,0.774,0.0,Sat Jan 06 19:03:38 +0000 2018,RT @instinctcbs: “This is a crime show where at the end you’re not reminded of how miserable things are in the world right now…You feel sat…,27,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 00:37:55 +0000 2018,"RT @startrekcbs: Star Trek has touched the lives of generations of fans, including the cast and writers of #StarTrekDiscovery. What's your…",28,CBS
+0.0,0.0,1.0,0.0,Sat Jan 06 00:30:53 +0000 2018,#StrangeAngel has found its leading man! Jack Reynor will star as famed rocket engineer Jack Parsons in the upcomin… https://t.co/sHkSKABGfd,29,CBS
+0.0,0.0,1.0,0.0,Fri Jan 05 18:30:42 +0000 2018,"The streak of new episodes continues! Watch new episodes of #MacGyver, #H50 &amp; #BlueBloods tonight starting at 8/7c.… https://t.co/xs2vbVqBJZ",30,CBS
+0.0,0.0,1.0,0.0,Fri Jan 05 16:05:58 +0000 2018,"RT @CBSTweet: #CBSRatingsNews: CBS Sweeps Fourth Quarter Ratings in Daytime, Primetime and Late Night for the First Time Since 2009 https:/…",31,CBS
+0.1867,0.0,0.89,0.11,Thu Jan 04 23:13:02 +0000 2018,"New year, new episodes! Don't miss all-new episodes of @BigBangTheory, @YoungSheldon, @MomCBS, @LifeInPiecesCBS, an… https://t.co/COf6Qg8Mz1",32,CBS
+-0.296,0.121,0.879,0.0,Thu Jan 04 14:43:09 +0000 2018,"Current nominees @LadyGaga, @LittleBigTown, @Pink, Childish Gambino and more will perform live at the #GRAMMYs, Jan… https://t.co/PlLMasNPwD",33,CBS
+0.5423,0.0,0.821,0.179,Wed Jan 03 20:33:09 +0000 2018,"RT @startrekcbs: From Airiam to Zefram Cochrane, #StarTrekDiscovery features fascinating new concepts along with classic references. What's…",34,CBS
+-0.5267,0.167,0.833,0.0,Wed Jan 03 19:51:15 +0000 2018,Torres and Bishop went undercover as a criminal couple on the latest episode of #NCIS. Catch up now:… https://t.co/1iTEneHyJS,35,CBS
+0.5423,0.0,0.857,0.143,Wed Jan 03 15:00:05 +0000 2018,Do you know all the nominees for Artist Of The Year? Get familiar with this year's GRAMMY® Award nominees ahead of… https://t.co/UQa8Mu9PUV,36,CBS
+0.0,0.0,1.0,0.0,Wed Jan 03 12:00:01 +0000 2018,"The new year of new episodes continues tonight with all-new episodes of #AmazingRace, #SEALTeam and #CriminalMinds… https://t.co/bwhNhQgsFC",37,CBS
+-0.7692,0.267,0.733,0.0,Wed Jan 03 00:47:26 +0000 2018,"RT @BullCBS: Tonight, can #Bull prove that a teen accused of robbing a jewelry store isn't responsible for the crime? Tune in at 9/8c or st…",38,CBS
+0.8516,0.0,0.66,0.34,Tue Jan 02 22:41:51 +0000 2018,It's your last chance to choose the pro football player with the best off-the-field talent! Vote now to decide who… https://t.co/6DjwqU0MB9,39,CBS
+0.0,0.0,1.0,0.0,Tue Jan 02 08:00:03 +0000 2018,"New year, new episodes -- all week long! It kicks off with an all-new #NCIS, #Bull and #NCISNOLA tonight starting a… https://t.co/bcmAaUQJtf",40,CBS
+0.0,0.0,1.0,0.0,Mon Jan 01 01:16:12 +0000 2018,"Due to #NFL football games overrun, revised start times &amp; lineup for Eastern/Central Time Zones Only:
+#60Minutes 8:… https://t.co/rqOYbM5j0h",41,CBS
+0.7798,0.0,0.736,0.264,Sun Dec 31 14:37:05 +0000 2017,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE (not ava… https://t.co/NEntvW7QHd,42,CBS
+0.0,0.0,1.0,0.0,Sat Dec 30 20:25:20 +0000 2017,"RT @NoActivityCBS: All season nothing's happened. Now prepare for activity. Stream the #NoActivity season finale Sunday, Dec 31 on CBS All…",43,CBS
+0.3612,0.0,0.884,0.116,Sat Dec 30 20:24:58 +0000 2017,RT @startrekcbs: Find out what happens when you boldly go too far. #StarTrekDiscovery continues January 7 on CBS All Access: https://t.co/f…,44,CBS
+0.0857,0.144,0.699,0.157,Fri Dec 29 16:06:02 +0000 2017,Stream NC State Wolfpack at Arizona State Sun Devils LIVE today at 3PM ET with a 1-month FREE trial of… https://t.co/8k50thgtip,45,CBS
+0.1511,0.096,0.783,0.121,Thu Dec 28 20:31:01 +0000 2017,"In case you missed this star-studded tribute to Carol Burnett's classic comedy series, catch up now! Watch The Caro… https://t.co/wu7BxM9gtm",46,CBS
+0.0,0.0,1.0,0.0,Thu Dec 28 19:28:22 +0000 2017,Some of TV's biggest stars saluted @TheNormanLear's impact on television and culture at The 40th Annual Kennedy Cen… https://t.co/E74ChUW1uE,47,CBS
+0.875,0.0,0.643,0.357,Wed Dec 27 22:45:05 +0000 2017,The search is on to find the pro football player with the best off-the-field talent. Vote for your favorite player… https://t.co/R0fb5ngJ16,48,CBS
+0.7717,0.0,0.705,0.295,Wed Dec 27 21:04:10 +0000 2017,"Celebrate everyone's favorite classic sitcom with Carol Burnett, Vicki Lawrence, and more stars during The Carol Bu… https://t.co/SaiZ9TzBVO",49,CBS
+0.8452,0.0,0.663,0.337,Wed Dec 27 19:52:02 +0000 2017,Joy to the world of streaming! Try #CBSAllAccess FREE for 1 month – just use code BINGE by 1/2:… https://t.co/9p1ACnslz6,50,CBS
+0.0,0.0,1.0,0.0,Wed Dec 27 19:40:34 +0000 2017,"Music legend Stevie Wonder salutes @LionelRichie while performing his classic hit, ""Easy"" at The 40th Annual Kenned… https://t.co/7TeDeNyhgo",51,CBS
+0.7003,0.0,0.766,0.234,Wed Dec 27 12:00:01 +0000 2017,"As the youngest Kennedy Center Honoree in 40 years, @LLCoolJ talks about what motivates him to chase his dreams. Wa… https://t.co/DFY78y99w3",52,CBS
+0.8398,0.0,0.64,0.36,Wed Dec 27 07:27:33 +0000 2017,Here's to the 2017 Kennedy Center Honorees! Catch up on an evening of stunning performances and inspiring speeches… https://t.co/jGfANpSCul,53,CBS
+0.8221,0.0,0.664,0.336,Wed Dec 27 04:00:52 +0000 2017,This celebration could go all night long! What a great final performance in honor of @LionelRichie. #KCHonors https://t.co/xKLWpKr3v0,54,CBS
+0.0,0.0,1.0,0.0,Wed Dec 27 03:59:48 +0000 2017,RT @MarkAPrinceJr: A #LionelRichie tribute is not complete without 🎶All Night Long🎶 😁 #KCHonors,55,CBS
+0.8271,0.0,0.58,0.42,Wed Dec 27 03:36:01 +0000 2017,Carmen de Lavallade (@CarmenDances) got emotional during those beautiful performances in her honor. Congratulations… https://t.co/gOCAZpZDpt,56,CBS
+0.8103,0.0,0.685,0.315,Wed Dec 27 03:35:29 +0000 2017,RT @Glamourtunist: This tribute to Carmen de Lavallade at the #KCHonors is so beautiful and well deserved. ❤️,57,CBS
+0.0,0.0,1.0,0.0,Wed Dec 27 03:03:49 +0000 2017,RT @llcoolj: Attn: #HIPHOP !!!! We made history!! #KCHonors,58,CBS
+0.5255,0.0,0.78,0.22,Wed Dec 27 03:03:26 +0000 2017,.@llcoolj is making history! He’s the Kennedy Center’s first hip-hop honoree. #KCHonors https://t.co/kCqkOdUjtu,59,CBS
+0.7096,0.0,0.753,0.247,Wed Dec 27 02:57:56 +0000 2017,RT @ErinAnnCullen: #KCHonors is always a night of inspiration. Thank you to these artists for your impact on our country. ❤️🧡💛💚💙💜,60,CBS
+0.7345,0.0,0.64,0.36,Wed Dec 27 02:48:52 +0000 2017,Give a round of applause to television pioneer and 2017 Honoree @TheNormanLear! #KCHonors https://t.co/20UosF987x,61,CBS
+0.6124,0.0,0.826,0.174,Wed Dec 27 02:45:34 +0000 2017,RT @AliL: This tribute to Norman Lear on #KCHonors is outstanding AND a walk down my childhood TV memory lane. 👏🏻📺,62,CBS
+0.3699,0.0,0.702,0.298,Wed Dec 27 02:28:07 +0000 2017,RT @llcoolj: Moments I’ll never forget!!! #KCHonors,63,CBS
+0.8748,0.0,0.474,0.526,Wed Dec 27 02:26:46 +0000 2017,.@GloriaEstefan approves of those amazing musical performances in her honor! #KCHonors https://t.co/i3EVYEoKRx,64,CBS
+0.9601,0.0,0.434,0.566,Wed Dec 27 02:20:11 +0000 2017,RT @thepickypantry: Beautiful tribute to @GloriaEstefan on the Kennedy Center Honors. Love Mi Tierra! Amazing and inspiring what a fighter…,65,CBS
+0.8908,0.0,0.654,0.346,Wed Dec 27 02:00:29 +0000 2017,Time to celebrate the 2017 honorees at The 40th Annual Kennedy Center Honors! Tune in now on CBS and CBS All Access… https://t.co/1OULMpCfPy,66,CBS
+0.0,0.0,1.0,0.0,Wed Dec 27 01:08:32 +0000 2017,"Tonight, @LionelRichie, @LLCoolJ, @GloriaEstefan, @TheNormanLear &amp; Carmen de Lavallade will be recognized at The 40… https://t.co/jZJqNo8h3b",67,CBS
+0.2415,0.173,0.61,0.218,Tue Dec 26 12:00:01 +0000 2017,"Don't miss the breathtaking performances, standing ovations and moving tributes that will leave you inspired. Here'… https://t.co/imILa52fjz",68,CBS
+0.5106,0.0,0.809,0.191,Mon Dec 25 12:00:05 +0000 2017,"Experience the performances and the memories when 2017 Honorees @LionelRichie, @GloriaEstefan, Carmen de Lavallade,… https://t.co/ygbqASVL7t",69,CBS
+-0.2263,0.101,0.899,0.0,Mon Dec 25 00:48:24 +0000 2017,"Due to NFL overrun CBS is delayed 36mins in Charlotte/NC, Cincinnati/OH, Nashville, Atlanta, New Orleans, Baton Rou… https://t.co/20mnbAhpTm",70,CBS
+0.7574,0.0,0.711,0.289,Sun Dec 24 20:40:42 +0000 2017,"Tonight, get together and enjoy Christmas Eve with a two-hour marathon of your favorite classic sitcoms! Watch The… https://t.co/SCv8TJy9Yp",71,CBS
+0.7974,0.0,0.727,0.273,Sun Dec 24 14:17:43 +0000 2017,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE! (Not av… https://t.co/6mR4bRR5Ey,72,CBS
+0.0,0.0,1.0,0.0,Sun Dec 24 12:30:02 +0000 2017,"All In The Family star @RobReiner gives props to legendary television writer, producer and 2017 Kennedy Center Hono… https://t.co/98jc5i63zE",73,CBS
+0.0,0.0,1.0,0.0,Sat Dec 23 16:21:17 +0000 2017,"Rapper @BustaRhymes pays tribute to @LLCoolJ, performing his hit song ""Mama Said Knock You Out"" at The 40th Annual… https://t.co/CRjQArUqwd",74,CBS
+0.8236,0.0,0.714,0.286,Sat Dec 23 15:00:02 +0000 2017,"Oh, what fun it is to stream! Start a 1-month FREE trial of #CBSAllAccess now. Use promo code BINGE by 1/2:… https://t.co/rSAnDJDgbI",75,CBS
+0.7712,0.0,0.645,0.355,Sat Dec 23 12:37:04 +0000 2017,CBS stars are glowing with holiday spirit! See how the stars are getting festive this season:… https://t.co/7qYTHoxFIc,76,CBS
+0.743,0.107,0.583,0.311,Sat Dec 23 07:24:44 +0000 2017,Spread some holiday cheer and laugh along with Dick Van Dyke and Mary Tyler Moore in two back-to-back episodes of T… https://t.co/N89JoYvXZW,77,CBS
+0.8687,0.0,0.635,0.365,Sat Dec 23 06:39:45 +0000 2017,Come home for the holidays with Lucy and Ricky in the I Love Lucy Christmas Special! Stream the full show:… https://t.co/s7f9mjEtER,78,CBS
+-0.1531,0.127,0.769,0.104,Sat Dec 23 01:38:37 +0000 2017,"Tonight at 9/8c, gather the family for two hilarious episodes of this classic sitcom in The Dick Van Dyke Show- Now… https://t.co/YcyECVr2NN",79,CBS
+0.9422,0.0,0.531,0.469,Sat Dec 23 00:39:52 +0000 2017,Get ready to laugh in the holidays tonight with Lucy and the gang in the I Love Lucy Christmas Special at 8/7c! Str… https://t.co/txU2TwXWOg,80,CBS
+0.6588,0.0,0.759,0.241,Fri Dec 22 19:35:35 +0000 2017,"Tonight, ring in the holidays with two back-to-back episodes of a timeless comedy classic, now in color! Watch the… https://t.co/skJsgJdQel",81,CBS
+0.6597,0.0,0.722,0.278,Fri Dec 22 18:03:20 +0000 2017,"Groundbreaking, daring, fearless. This is CBS All Access Originals. 
+
+Sign up now to watch @StarTrekCBS,… https://t.co/kvPsJafYrN",82,CBS
+0.5255,0.0,0.841,0.159,Fri Dec 22 14:04:52 +0000 2017,2017 Honoree @LLCoolJ is the first hip-hop artist recognized at the #KCHonors! Learn more about the @NCISLA star's… https://t.co/eK91KdBNpG,83,CBS
+0.8718,0.0,0.632,0.368,Thu Dec 21 12:04:04 +0000 2017,"She's at it again! Tomorrow, relive Lucy's hilarious antics during the I Love Lucy Christmas Special at 8/7c on CBS… https://t.co/g01UGGLEDk",84,CBS
+0.6597,0.0,0.787,0.213,Thu Dec 21 01:04:27 +0000 2017,"RT @survivorcbs: 6 heroes, 6 healers, 6 hustlers, but only 1 sole #Survivor. Ready to find out who it is? Tune in to the #SurvivorFinale no…",85,CBS
+0.3818,0.0,0.843,0.157,Wed Dec 20 23:00:04 +0000 2017,Watch @kelly_clarkson deliver a moving performance of 'Christmas Eve' during A Home for the Holidays with… https://t.co/TAcstl7VYh,86,CBS
+0.743,0.0,0.751,0.249,Wed Dec 20 21:08:10 +0000 2017,"In two days, celebrate the holidays with the gang with two back-to-back episodes of the classic sitcom during the I… https://t.co/FRr8jX7MXZ",87,CBS
+0.7222,0.0,0.719,0.281,Wed Dec 20 20:10:15 +0000 2017,2017 Honoree @LLCoolJ salutes James Brown for paving the way for artists like himself. Don't miss The 40th Annual K… https://t.co/310Wfk7EoW,88,CBS
+0.0,0.0,1.0,0.0,Wed Dec 20 19:31:47 +0000 2017,Singer-songwriter @JoshGroban delivers a powerhouse performance while raising awareness of adoption through foster… https://t.co/FiQKJdx7Ty,89,CBS
+0.5423,0.0,0.857,0.143,Wed Dec 20 15:30:01 +0000 2017,Do you know all the nominees for Album Of The Year? Get familiar with this year's GRAMMY®  Award nominees ahead of… https://t.co/GYnxLT3n4p,90,CBS
+0.1139,0.0,0.941,0.059,Wed Dec 20 01:01:19 +0000 2017,RT @survivorcbs: This finale is going to be unlike any ending in the history of #Survivor. Don't miss the finale + reunion all starting Wed…,91,CBS
+0.7644,0.0,0.708,0.292,Wed Dec 20 00:14:34 +0000 2017,"This Friday, gather around the tree and celebrate the holidays with Lucille Ball! Watch two colorized back-to-back… https://t.co/4wopbmS4ez",92,CBS
+0.0,0.0,1.0,0.0,Tue Dec 19 21:12:50 +0000 2017,Kevin and Vanessa took a trip back in time on last night's #KevinCanWait. Watch the latest episode now:… https://t.co/SAqbLOd1Pg,93,CBS
+0.3818,0.0,0.852,0.148,Tue Dec 19 21:00:03 +0000 2017,"Find out how to watch A Home for the Holidays with @JoshGroban, featuring performances by @Kelly_Clarkson,… https://t.co/Y6zrR9PigH",94,CBS
+0.5719,0.0,0.791,0.209,Tue Dec 19 15:30:04 +0000 2017,"In one week, celebrate a night of legends when @LionelRichie, @GloriaEstefan, Carmen de Lavallade (@CarmenDances),… https://t.co/u7eXxb521H",95,CBS
+0.0,0.0,1.0,0.0,Tue Dec 19 14:42:58 +0000 2017,"Kick off The 60th Annual #GRAMMYs with @NancyODell, @KevinFrazier &amp; @KeltieKnight as they go behind the scenes with… https://t.co/J6KDEGV1g1",96,CBS
+0.6808,0.0,0.714,0.286,Tue Dec 19 00:39:07 +0000 2017,"Country crooner Luke Bryan (@LukeBryanOnline) honors @LionelRichie with a smooth rendition of his original song, 'P… https://t.co/XIF7ESukR8",97,CBS
+0.875,0.0,0.643,0.357,Mon Dec 18 22:53:34 +0000 2017,The search is on to find the pro football player with the best off-the-field talent. Vote for your favorite player… https://t.co/7uXC3SEz96,98,CBS
+0.8957,0.0,0.505,0.495,Mon Dec 18 21:32:25 +0000 2017,"It's the greatest gift a family can give. Celebrate adoption with superstars @JoshGroban, @Kelly_Clarkson,… https://t.co/1wc6meuGF7",99,CBS
+0.7569,0.0,0.712,0.288,Mon Dec 18 18:40:55 +0000 2017,"Mark your calendars! @NCISLA star @LLCoolJ will host MVP: Most Valuable Performer, a new interactive talent show to… https://t.co/s2LilAv50X",100,CBS
+-0.1902,0.071,0.929,0.0,Mon Jan 08 22:40:25 +0000 2018,American voters are big fans of Oprah Winfrey -- but a poll last March found that most didn't want her to run for P… https://t.co/YZlDkM79eM,1,CNN
+-0.1847,0.2,0.664,0.136,Mon Jan 08 22:32:26 +0000 2018,"""'If you make me happy, I don't care who else you make unhappy' is essentially the US foreign policy now."" - Michae… https://t.co/MTxRWCgA7s",2,CNN
+0.5859,0.0,0.826,0.174,Mon Jan 08 22:30:46 +0000 2018,It's a complicated political question: How can the GOP give President Trump a win on the wall without alienating De… https://t.co/l517xeC4bQ,3,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:21:52 +0000 2018,Oprah Winfrey's Golden Globes speech sends Weight Watchers stock soaring https://t.co/jxKSbqlIeM https://t.co/8uTgJhWU7L,4,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:20:38 +0000 2018,"The Trump administration's decision to end a program that allowed about 250,000 Salvadorans to stay in the US could… https://t.co/V7K7ol43sK",5,CNN
+0.0516,0.155,0.644,0.201,Mon Jan 08 22:16:20 +0000 2018,"The United States has the worst overall child mortality rate compared with those of 19 other wealthy nations, accor… https://t.co/CqdrL3NDSQ",6,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:15:10 +0000 2018,"Meet Kathryn Smith, the first woman to become a full-time coach in the NFL.
+
+#BossFiles with @PoppyHarlowCNN: 
+
+Lis… https://t.co/DeAwBuIWZX",7,CNN
+-0.8271,0.339,0.661,0.0,Mon Jan 08 22:03:32 +0000 2018,"""Fire and Fury"" author Michael Wolff says 100 percent of the people around the President believe he's incapable of… https://t.co/3hlV1S4Fl4",8,CNN
+0.25,0.0,0.889,0.111,Mon Jan 08 22:00:52 +0000 2018,"The Trump administration will end protections for more than 200,000 Salvadorans, granted by the Bush administration… https://t.co/1VK579Z9YB",9,CNN
+-0.296,0.109,0.891,0.0,Mon Jan 08 21:50:49 +0000 2018,"No, this is not a painting. It’s a NASA image of Jupiter’s swirling cloud systems, enhanced by two citizen scientis… https://t.co/noHxYkVubP",10,CNN
+0.3612,0.0,0.872,0.128,Mon Jan 08 21:48:30 +0000 2018,RT @CNNPolitics: An Oprah campaign might (literally) look like this | GIF analysis by CNN's Brenna Williams https://t.co/lgzE55uWJM https:/…,11,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:34:04 +0000 2018,"Ibuprofen taken in doses commonly used by athletes may be linked to male infertility, a new study finds… https://t.co/btQxlo1oMG",12,CNN
+-0.0516,0.093,0.821,0.086,Mon Jan 08 21:33:06 +0000 2018,"RT @TheLeadCNN: .@jaketapper: It is difficult to ascertain just what the truth is behind the “Fire and Fury” book since frankly, we have tw…",13,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:32:39 +0000 2018,"""Every time the President tweets, the White House goes into a spasm."" Michael Wolff, the author of a bombshell book… https://t.co/mym8M9TXNM",14,CNN
+0.4019,0.0,0.876,0.124,Mon Jan 08 21:27:49 +0000 2018,Lawyers for President Trump are anticipating a request for him to talk to special counsel Robert Mueller and are di… https://t.co/H0GtSPBa4v,15,CNN
+0.4019,0.0,0.876,0.124,Mon Jan 08 21:21:23 +0000 2018,Lawyers for President Trump are anticipating a request for him to talk to special counsel Robert Mueller and are di… https://t.co/31FUpEnFg5,16,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:20:12 +0000 2018,"Facebook is shutting down M, an automated personal assistant once thought to be a text-based answer to services lik… https://t.co/IKo3o3oWpz",17,CNN
+0.6124,0.0,0.773,0.227,Mon Jan 08 21:08:39 +0000 2018,"Apple has released new security updates for iPhones, iPads, and Macs to protect users from the Spectre flaw… https://t.co/4FBhnud18f",18,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:06:13 +0000 2018,"Oprah would make an exceptional president, writes @sallykohn for @CNNOpinion https://t.co/Jr0RXSTf7a https://t.co/VHguceyOcp",19,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:02:05 +0000 2018,"Michael Wolff, the author of a book that has driven a wedge between President Trump and Steve Bannon, defends ""Fire… https://t.co/8uzIV8GWXg",20,CNN
+-0.1902,0.071,0.929,0.0,Mon Jan 08 22:40:25 +0000 2018,American voters are big fans of Oprah Winfrey -- but a poll last March found that most didn't want her to run for P… https://t.co/YZlDkM79eM,21,CNN
+-0.1847,0.2,0.664,0.136,Mon Jan 08 22:32:26 +0000 2018,"""'If you make me happy, I don't care who else you make unhappy' is essentially the US foreign policy now."" - Michae… https://t.co/MTxRWCgA7s",22,CNN
+0.5859,0.0,0.826,0.174,Mon Jan 08 22:30:46 +0000 2018,It's a complicated political question: How can the GOP give President Trump a win on the wall without alienating De… https://t.co/l517xeC4bQ,23,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:21:52 +0000 2018,Oprah Winfrey's Golden Globes speech sends Weight Watchers stock soaring https://t.co/jxKSbqlIeM https://t.co/8uTgJhWU7L,24,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:20:38 +0000 2018,"The Trump administration's decision to end a program that allowed about 250,000 Salvadorans to stay in the US could… https://t.co/V7K7ol43sK",25,CNN
+0.0516,0.155,0.644,0.201,Mon Jan 08 22:16:20 +0000 2018,"The United States has the worst overall child mortality rate compared with those of 19 other wealthy nations, accor… https://t.co/CqdrL3NDSQ",26,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 22:15:10 +0000 2018,"Meet Kathryn Smith, the first woman to become a full-time coach in the NFL.
+
+#BossFiles with @PoppyHarlowCNN: 
+
+Lis… https://t.co/DeAwBuIWZX",27,CNN
+-0.8271,0.339,0.661,0.0,Mon Jan 08 22:03:32 +0000 2018,"""Fire and Fury"" author Michael Wolff says 100 percent of the people around the President believe he's incapable of… https://t.co/3hlV1S4Fl4",28,CNN
+0.25,0.0,0.889,0.111,Mon Jan 08 22:00:52 +0000 2018,"The Trump administration will end protections for more than 200,000 Salvadorans, granted by the Bush administration… https://t.co/1VK579Z9YB",29,CNN
+-0.296,0.109,0.891,0.0,Mon Jan 08 21:50:49 +0000 2018,"No, this is not a painting. It’s a NASA image of Jupiter’s swirling cloud systems, enhanced by two citizen scientis… https://t.co/noHxYkVubP",30,CNN
+0.3612,0.0,0.872,0.128,Mon Jan 08 21:48:30 +0000 2018,RT @CNNPolitics: An Oprah campaign might (literally) look like this | GIF analysis by CNN's Brenna Williams https://t.co/lgzE55uWJM https:/…,31,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:34:04 +0000 2018,"Ibuprofen taken in doses commonly used by athletes may be linked to male infertility, a new study finds… https://t.co/btQxlo1oMG",32,CNN
+-0.0516,0.093,0.821,0.086,Mon Jan 08 21:33:06 +0000 2018,"RT @TheLeadCNN: .@jaketapper: It is difficult to ascertain just what the truth is behind the “Fire and Fury” book since frankly, we have tw…",33,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:32:39 +0000 2018,"""Every time the President tweets, the White House goes into a spasm."" Michael Wolff, the author of a bombshell book… https://t.co/mym8M9TXNM",34,CNN
+0.4019,0.0,0.876,0.124,Mon Jan 08 21:27:49 +0000 2018,Lawyers for President Trump are anticipating a request for him to talk to special counsel Robert Mueller and are di… https://t.co/H0GtSPBa4v,35,CNN
+0.4019,0.0,0.876,0.124,Mon Jan 08 21:21:23 +0000 2018,Lawyers for President Trump are anticipating a request for him to talk to special counsel Robert Mueller and are di… https://t.co/31FUpEnFg5,36,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:20:12 +0000 2018,"Facebook is shutting down M, an automated personal assistant once thought to be a text-based answer to services lik… https://t.co/IKo3o3oWpz",37,CNN
+0.6124,0.0,0.773,0.227,Mon Jan 08 21:08:39 +0000 2018,"Apple has released new security updates for iPhones, iPads, and Macs to protect users from the Spectre flaw… https://t.co/4FBhnud18f",38,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:06:13 +0000 2018,"Oprah would make an exceptional president, writes @sallykohn for @CNNOpinion https://t.co/Jr0RXSTf7a https://t.co/VHguceyOcp",39,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 21:02:05 +0000 2018,"Michael Wolff, the author of a book that has driven a wedge between President Trump and Steve Bannon, defends ""Fire… https://t.co/8uzIV8GWXg",40,CNN
+0.34,0.0,0.876,0.124,Mon Jan 08 20:53:11 +0000 2018,Visa and Aflac are boosting their 401(k) match in the wake of the GOP tax overhaul https://t.co/IYfE1SdJuA https://t.co/EF4avE0WbX,41,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 20:46:11 +0000 2018,Pizza Hut is working on self-driving delivery trucks https://t.co/mtI2ynCP2I https://t.co/sZegOnd6Xq,42,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 20:32:04 +0000 2018,"Rancher Cliven Bundy was released from custody Monday, according to his attorney https://t.co/7UQuRecyt1 https://t.co/H97rUymsVk",43,CNN
+0.2023,0.0,0.899,0.101,Mon Jan 08 20:27:08 +0000 2018,Pope Francis once again tells breastfeeding moms it's fine to feed hungry babies in church https://t.co/tFIN9QfeKR https://t.co/9or9PSCDBe,44,CNN
+-0.4215,0.138,0.81,0.052,Mon Jan 08 20:24:20 +0000 2018,"Michael Wolff: Steve Bannon's recent statement backing away from his criticism of Donald Trump Jr. is ""not true""… https://t.co/00QCBKJyx8",45,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 20:20:18 +0000 2018,A record-breaking 22 women are now serving in the US Senate https://t.co/rk4tZEaqDm https://t.co/kIjVa9H0PJ,46,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 20:10:03 +0000 2018,Here's what Oprah Winfrey said at the Golden Globes last night https://t.co/oJ7E60GG4j https://t.co/uLfVv6EqVR,47,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 20:03:22 +0000 2018,A conservative watchdog group led by Steve Bannon tried to discredit Donald Trump in the early stages of the 2016 G… https://t.co/ogV8AHK2fV,48,CNN
+0.3612,0.0,0.865,0.135,Mon Jan 08 20:00:20 +0000 2018,"H&amp;M apologizes for using a black child to model a sweatshirt with a ""coolest monkey in the jungle"" slogan… https://t.co/3LncKlJR4M",49,CNN
+0.3612,0.0,0.857,0.143,Mon Jan 08 20:00:06 +0000 2018,"With the press of a button, LG Display's 65-inch screen rolls up like a yoga mat https://t.co/8iKXUOG0G0 https://t.co/YUPG0FinkM",50,CNN
+-0.6597,0.196,0.804,0.0,Mon Jan 08 19:50:11 +0000 2018,"Just in: Mitt Romney was treated for prostate cancer over the summer. Source says his prognosis is ""good""… https://t.co/rQjpinr0Jj",51,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 19:40:06 +0000 2018,The world's most punctual airports and airlines in 2018 revealed https://t.co/8BdoyelPs8 https://t.co/7KBcoYu2kb,52,CNN
+-0.0516,0.054,0.946,0.0,Mon Jan 08 19:30:07 +0000 2018,"Vice President Mike Pence will leave late next week for a Middle East trip that will take him to Egypt, Jordan and… https://t.co/B01uWHpDcy",53,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 19:20:09 +0000 2018,"This is where the jobs are, and where they're not https://t.co/6qcbwqeiS6 https://t.co/fxOf8dOwGF",54,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 19:10:06 +0000 2018,“I wasn't about the naysayers. I wanted to work extra hard”: How Kathryn Smith defied the odds and became the first… https://t.co/hpFdpgUDvW,55,CNN
+-0.6486,0.301,0.699,0.0,Mon Jan 08 19:00:10 +0000 2018,64 migrants believed dead after boat sinks in Mediterranean https://t.co/r0MpOLqXq6 https://t.co/zVdhV20jPY,56,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 18:50:11 +0000 2018,6 times Oprah stoked or shot down 2020 speculation https://t.co/A0QTKeWeFZ https://t.co/ylR5k2sYrx,57,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 18:40:11 +0000 2018,"If Mitt Romney wants to become Utah's next senator, there's virtually nothing standing in the 2012 Republican presi… https://t.co/8reKntl31h",58,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 18:30:56 +0000 2018,"In a 1999 interview with Larry King, Donald Trump said that his first choice for a running mate would be Oprah Winf… https://t.co/l5XPljN5VS",59,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 18:20:07 +0000 2018,Removing a President using the 25th amendment would require a political apocalypse | Analysis by @zbyronwolf … https://t.co/l9XrU8kDSX,60,CNN
+0.8126,0.0,0.684,0.316,Mon Jan 08 18:10:16 +0000 2018,"""She knows how to win""
+
+""I adore Oprah""
+
+Here's what Trump tweeted about Oprah in 2012: https://t.co/UNHSF2P0ZI https://t.co/G5eun8bAkk",61,CNN
+0.6705,0.0,0.718,0.282,Mon Jan 08 18:00:16 +0000 2018,Steve Bannon knows the secret to getting back in Trump's good graces | Analysis by @CillizzaCNN… https://t.co/AdMp3q4TYL,62,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 17:52:25 +0000 2018,"Former independent counsel Ken Starr said Monday it's ""probable"" that President Trump will be interviewed face-to-f… https://t.co/Uwg3O0rWHT",63,CNN
+-0.4215,0.135,0.865,0.0,Mon Jan 08 17:41:55 +0000 2018,"First, a “bomb cyclone” stranded some travelers at JFK Airport for days. Then a water main broke and flooded a bagg… https://t.co/15sydHfrJ8",64,CNN
+0.6597,0.0,0.759,0.241,Mon Jan 08 17:30:04 +0000 2018,"Oprah Winfrey is actively thinking about running for president in 2020, two of her close friends tell CNN… https://t.co/BpVatGk2IA",65,CNN
+0.3612,0.0,0.865,0.135,Mon Jan 08 17:20:04 +0000 2018,"H&amp;M apologizes for using a black child to model a sweatshirt with a ""coolest monkey in the jungle"" slogan… https://t.co/0YKh8QiuiU",66,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 17:10:11 +0000 2018,Billionaire Democratic megadonor Tom Steyer says he is not running for office in 2018 but will spend $30 million on… https://t.co/v5xdC74n9M,67,CNN
+0.4404,0.0,0.818,0.182,Mon Jan 08 17:00:04 +0000 2018,Everything you need to know about tonight's College Football Playoff National Championship https://t.co/FhsvOJP9xX https://t.co/bDG4Tvjg7f,68,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 16:51:02 +0000 2018,"Sen. Bob Corker, who is traveling today on Air Force One with President Trump, has repaired his relationship with t… https://t.co/08W6Rf7UjF",69,CNN
+0.5267,0.0,0.638,0.362,Mon Jan 08 16:40:12 +0000 2018,Samantha Barry named Glamour editor-in-chief https://t.co/51ofIh4CKF https://t.co/lQlXBv0giz,70,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 16:40:12 +0000 2018,Oprah knew exactly what she was doing on Sunday night | Analysis by @CillizzaCNN https://t.co/xjKabk5X6i https://t.co/cHR4UJaghV,71,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 16:30:16 +0000 2018,"Britain's Princess Charlotte, youngest child of the Duke and Duchess of Cambridge, started nursery school on Monday… https://t.co/XQNcXjP0ql",72,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 16:20:10 +0000 2018,"In a 1999 interview with Larry King, Donald Trump said that his first choice for a running mate would be Oprah Winf… https://t.co/0MpszMASLR",73,CNN
+-0.7845,0.317,0.683,0.0,Mon Jan 08 16:12:47 +0000 2018,"Two people injured after a fire broke out on the roof of Trump Tower in New York City, authorities say… https://t.co/ljIDJEyPtm",74,CNN
+0.8126,0.0,0.684,0.316,Mon Jan 08 16:00:49 +0000 2018,"""She knows how to win""
+
+""I adore Oprah""
+
+Here's what Trump tweeted about Oprah in 2012: https://t.co/5tipFwFnKt https://t.co/FvVhtJwdGI",75,CNN
+0.2732,0.0,0.89,0.11,Mon Jan 08 15:47:11 +0000 2018,"The Trump administration will end protections for certain nationals of El Salvador, a source familiar with the deci… https://t.co/80O0ZX0BaD",76,CNN
+-0.5574,0.175,0.825,0.0,Mon Jan 08 15:37:42 +0000 2018,"NOAA announces 2017 was the most expensive year on record for US weather disasters, costing $306 billion… https://t.co/hSUu12Ih9l",77,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 15:26:10 +0000 2018,Here's what Oprah Winfrey said at the Golden Globes last night https://t.co/5OhZO0Lf7s https://t.co/92Jg52kiI2,78,CNN
+0.6597,0.0,0.779,0.221,Mon Jan 08 15:13:17 +0000 2018,"JUST IN: Oprah Winfrey is actively thinking about running for President in 2020, two of her close friends tell CNN… https://t.co/MTOfbFs1hj",79,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 14:50:34 +0000 2018,"In the US, the rate of children injuring their eyes with air guns skyrocketed between 1990 and 2012… https://t.co/caDglLpVeh",80,CNN
+0.7717,0.0,0.676,0.324,Mon Jan 08 14:36:15 +0000 2018,Stars transformed the red carpet. Shows featuring women won awards. Then Oprah stole the show.… https://t.co/UrXYCKACnO,81,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 14:20:45 +0000 2018,"Former independent counsel Ken Starr said Monday it's ""probable"" that President Trump will be interviewed face-to-f… https://t.co/ZlUzOPOXsL",82,CNN
+0.3612,0.0,0.839,0.161,Mon Jan 08 14:05:03 +0000 2018,Oprah's Golden Globes speech sounds like the start of a presidential campaign | via @BrianStelter… https://t.co/MijS85yfB2,83,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 13:54:42 +0000 2018,"Meet Kathryn Smith, the first woman to become a full-time coach in the NFL.
+
+#BossFiles with @PoppyHarlowCNN: 
+
+Lis… https://t.co/W2dXx3adXG",84,CNN
+0.3612,0.0,0.865,0.135,Mon Jan 08 13:39:36 +0000 2018,"H&amp;M apologizes for using a black child to model a sweatshirt with a ""coolest monkey in the jungle"" slogan… https://t.co/y7EbbZfcj5",85,CNN
+0.34,0.0,0.876,0.124,Mon Jan 08 13:25:15 +0000 2018,A former adviser to President Trump's presidential campaign says giving author Michael Wolff access at the White Ho… https://t.co/EKCQUEC7w5,86,CNN
+0.1511,0.0,0.93,0.07,Mon Jan 08 13:10:04 +0000 2018,"""I want all the girls watching here, now, to know that a new day is on the horizon!"": Read Oprah Winfrey's rousing… https://t.co/5MAXNKZR8L",87,CNN
+0.7717,0.0,0.705,0.295,Mon Jan 08 13:01:35 +0000 2018,"Stars transformed the red carpet. Shows featuring women won awards. Then Oprah stole the show. 
+
+The #GoldenGlobes… https://t.co/3MMTFJdLmj",88,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:50:13 +0000 2018,"RT @NewDay: Will President Trump meet with Robert Mueller in the Russia probe?
+
+Sen. Richard Blumenthal says, ""Unquestionably, there has to…",89,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:50:02 +0000 2018,"5 things for Monday:
+
+- #GoldenGlobes
+- Politics
+- North and South Korea
+- Las Vegas shooting
+- Weather… https://t.co/YkRfGEq2zD",90,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:40:06 +0000 2018,"President Trump's physical is scheduled for Friday, but it's unlikely to shed light on the President's mental fitne… https://t.co/vc7h9eoFde",91,CNN
+0.4767,0.0,0.721,0.279,Mon Jan 08 12:30:03 +0000 2018,Here's the full list of #GoldenGlobes winners https://t.co/lLZBW8GaHU https://t.co/2TXnmjW2KQ,92,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:20:07 +0000 2018,Congress returns this week with just eight legislative days before a possible government shutdown… https://t.co/ELaaV9I8FV,93,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:10:06 +0000 2018,"President Trump has deleted a tweet citing his ""consensual presidency"" https://t.co/9fvAoY07S3 https://t.co/MK7YIGsrtq",94,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 12:00:17 +0000 2018,"""We went to church"": Reactions to Oprah's speech https://t.co/YHsJcNPZaB https://t.co/BJBQk0pjen",95,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 11:53:05 +0000 2018,"If Mitt Romney wants to become Utah's next senator, there's virtually nothing standing in the 2012 Republican presi… https://t.co/mCjMeA9Mf0",96,CNN
+-0.34,0.103,0.897,0.0,Mon Jan 08 11:52:33 +0000 2018,"RT @NewDay: Fmr. Trump campaign adviser Michael Caputo on Michael Wolf's 'Fire &amp; Fury': ""This book is trash.""
+
+CNN's @ChrisCuomo: ""You guys…",97,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 11:43:05 +0000 2018,A record-breaking 22 women are now serving in the US Senate https://t.co/0HeTO3AfVb https://t.co/qx8e0zMFuC,98,CNN
+0.7717,0.0,0.676,0.324,Mon Jan 08 11:34:12 +0000 2018,Stars transformed the red carpet. Shows featuring women won awards. Then Oprah stole the show.… https://t.co/CfQfzkm3GA,99,CNN
+0.0,0.0,1.0,0.0,Mon Jan 08 11:14:02 +0000 2018,"US President Donald Trump has deleted a Tweet citing his ""consensual presidency"" (when the actual quote called it '… https://t.co/Gp7Y9eMPr6",100,CNN
+-0.4404,0.132,0.868,0.0,Mon Jan 08 22:30:40 +0000 2018,".@kimguilfoyle on attacks on @POTUS' 'mental fitness': ""So, how did he get into the @WhiteHouse?...He did all the d… https://t.co/jmCzJc0iQg",1,FoxNews
+0.2263,0.134,0.671,0.195,Mon Jan 08 22:23:03 +0000 2018,.@NAACP calls for 'snowflake' protest against #Trump at College Football Championship https://t.co/YWhjZSbCYI,2,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 22:15:05 +0000 2018,"TONIGHT: @WhiteHouse Policy Advisor Stephen Miller speaks to @TuckerCarlson at 8p ET on ""Tucker Carlson Tonight.""… https://t.co/DP4EMb8bR1",3,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 22:14:02 +0000 2018,"During remarks at the American Farm Bureau Federation Convention in Nashville, TN, @POTUS had this to say about the… https://t.co/jRlotgffoa",4,FoxNews
+0.7311,0.0,0.745,0.255,Mon Jan 08 22:08:53 +0000 2018,".@POTUS: ""We are witnessing a new era of patriotism, prosperity, and pride, and at the forefront of this exciting n… https://t.co/xDfBlAxOH0",5,FoxNews
+-0.3182,0.15,0.85,0.0,Mon Jan 08 22:08:12 +0000 2018,.@TheJusticeDept official who concealed meetings with #Trump dossier figures loses another job title https://t.co/vTkII3kbDG,6,FoxNews
+-0.1779,0.21,0.641,0.149,Mon Jan 08 22:04:42 +0000 2018,".@POTUS: ""Our task is to preserve the freedom that American soldiers have fought for and died for in every generati… https://t.co/XtYNE2OdmV",7,FoxNews
+0.6808,0.0,0.763,0.237,Mon Jan 08 22:00:11 +0000 2018,".@POTUS: ""Every American child deserves to grow up in a safe community and to live a life full of dignity, purpose… https://t.co/FYUnr314Bu",8,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:55:42 +0000 2018,".@POTUS: ""We are going to end chain migration. We are going to end the lottery system, and we are going to build th… https://t.co/8mtpWySRxn",9,FoxNews
+0.3182,0.122,0.655,0.223,Mon Jan 08 21:54:14 +0000 2018,"""We're also moving swiftly to bring hope and prosperity to struggling rural communities."" - @POTUS signs two execut… https://t.co/xc836etyby",10,FoxNews
+0.0772,0.0,0.925,0.075,Mon Jan 08 21:49:57 +0000 2018,".@POTUS: ""We want to see even more victories for the American farmer and the American rancher."" https://t.co/WVMHftBr3q",11,FoxNews
+0.3182,0.0,0.867,0.133,Mon Jan 08 21:48:19 +0000 2018,JUST IN: President #Trump signs two executive orders to expand broadband access in rural areas https://t.co/CdtfA6tAtZ,12,FoxNews
+0.4939,0.076,0.763,0.16,Mon Jan 08 21:47:30 +0000 2018,".@POTUS: ""There's plenty of space for people to express their views, and to protest. But we love our flag, we love… https://t.co/RMkA65HhGO",13,FoxNews
+0.0258,0.207,0.622,0.17,Mon Jan 08 21:42:51 +0000 2018,".@POTUS: ""We're fighting for our farmers...and we're fighting for our country, and for our great American flag."" https://t.co/MT57vbDEJy",14,FoxNews
+-0.4767,0.255,0.745,0.0,Mon Jan 08 21:39:40 +0000 2018,".@POTUS speaking to the American Farm Bureau Federation: ""You are forgotten no more."" https://t.co/IXGscbC3lB",15,FoxNews
+-0.807,0.267,0.733,0.0,Mon Jan 08 21:35:21 +0000 2018,".@POTUS: ""You're going to be spared...of the deeply unfair estate tax, known as the 'death tax.' So, you can keep y… https://t.co/BvZCJ0D3wa",16,FoxNews
+-0.2732,0.087,0.913,0.0,Mon Jan 08 21:32:50 +0000 2018,".@POTUS: ""Under this new law, the typical family of four earning $75,000 will see an income tax cut of more than $2… https://t.co/kWJ9KtRyrL",17,FoxNews
+0.4767,0.0,0.829,0.171,Mon Jan 08 21:28:44 +0000 2018,".@POTUS: ""Republicans came together and delivered historic relief for our farmers and our middle class."" https://t.co/CLkunkhWws",18,FoxNews
+0.5719,0.0,0.812,0.188,Mon Jan 08 21:27:30 +0000 2018,".@POTUS: ""We know that our nation was founded by farmers. Our independence was won by farmers."" https://t.co/0TyUtPwyxt",19,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:23:31 +0000 2018,".@POTUS: ""Farmers have always, always, always led the way."" https://t.co/IhdUBGP5ts",20,FoxNews
+-0.4404,0.132,0.868,0.0,Mon Jan 08 22:30:40 +0000 2018,".@kimguilfoyle on attacks on @POTUS' 'mental fitness': ""So, how did he get into the @WhiteHouse?...He did all the d… https://t.co/jmCzJc0iQg",21,FoxNews
+0.2263,0.134,0.671,0.195,Mon Jan 08 22:23:03 +0000 2018,.@NAACP calls for 'snowflake' protest against #Trump at College Football Championship https://t.co/YWhjZSbCYI,22,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 22:15:05 +0000 2018,"TONIGHT: @WhiteHouse Policy Advisor Stephen Miller speaks to @TuckerCarlson at 8p ET on ""Tucker Carlson Tonight.""… https://t.co/DP4EMb8bR1",23,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 22:14:02 +0000 2018,"During remarks at the American Farm Bureau Federation Convention in Nashville, TN, @POTUS had this to say about the… https://t.co/jRlotgffoa",24,FoxNews
+0.7311,0.0,0.745,0.255,Mon Jan 08 22:08:53 +0000 2018,".@POTUS: ""We are witnessing a new era of patriotism, prosperity, and pride, and at the forefront of this exciting n… https://t.co/xDfBlAxOH0",25,FoxNews
+-0.3182,0.15,0.85,0.0,Mon Jan 08 22:08:12 +0000 2018,.@TheJusticeDept official who concealed meetings with #Trump dossier figures loses another job title https://t.co/vTkII3kbDG,26,FoxNews
+-0.1779,0.21,0.641,0.149,Mon Jan 08 22:04:42 +0000 2018,".@POTUS: ""Our task is to preserve the freedom that American soldiers have fought for and died for in every generati… https://t.co/XtYNE2OdmV",27,FoxNews
+0.6808,0.0,0.763,0.237,Mon Jan 08 22:00:11 +0000 2018,".@POTUS: ""Every American child deserves to grow up in a safe community and to live a life full of dignity, purpose… https://t.co/FYUnr314Bu",28,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:55:42 +0000 2018,".@POTUS: ""We are going to end chain migration. We are going to end the lottery system, and we are going to build th… https://t.co/8mtpWySRxn",29,FoxNews
+0.3182,0.122,0.655,0.223,Mon Jan 08 21:54:14 +0000 2018,"""We're also moving swiftly to bring hope and prosperity to struggling rural communities."" - @POTUS signs two execut… https://t.co/xc836etyby",30,FoxNews
+0.0772,0.0,0.925,0.075,Mon Jan 08 21:49:57 +0000 2018,".@POTUS: ""We want to see even more victories for the American farmer and the American rancher."" https://t.co/WVMHftBr3q",31,FoxNews
+0.3182,0.0,0.867,0.133,Mon Jan 08 21:48:19 +0000 2018,JUST IN: President #Trump signs two executive orders to expand broadband access in rural areas https://t.co/CdtfA6tAtZ,32,FoxNews
+0.4939,0.076,0.763,0.16,Mon Jan 08 21:47:30 +0000 2018,".@POTUS: ""There's plenty of space for people to express their views, and to protest. But we love our flag, we love… https://t.co/RMkA65HhGO",33,FoxNews
+0.0258,0.207,0.622,0.17,Mon Jan 08 21:42:51 +0000 2018,".@POTUS: ""We're fighting for our farmers...and we're fighting for our country, and for our great American flag."" https://t.co/MT57vbDEJy",34,FoxNews
+-0.4767,0.255,0.745,0.0,Mon Jan 08 21:39:40 +0000 2018,".@POTUS speaking to the American Farm Bureau Federation: ""You are forgotten no more."" https://t.co/IXGscbC3lB",35,FoxNews
+-0.807,0.267,0.733,0.0,Mon Jan 08 21:35:21 +0000 2018,".@POTUS: ""You're going to be spared...of the deeply unfair estate tax, known as the 'death tax.' So, you can keep y… https://t.co/BvZCJ0D3wa",36,FoxNews
+-0.2732,0.087,0.913,0.0,Mon Jan 08 21:32:50 +0000 2018,".@POTUS: ""Under this new law, the typical family of four earning $75,000 will see an income tax cut of more than $2… https://t.co/kWJ9KtRyrL",37,FoxNews
+0.4767,0.0,0.829,0.171,Mon Jan 08 21:28:44 +0000 2018,".@POTUS: ""Republicans came together and delivered historic relief for our farmers and our middle class."" https://t.co/CLkunkhWws",38,FoxNews
+0.5719,0.0,0.812,0.188,Mon Jan 08 21:27:30 +0000 2018,".@POTUS: ""We know that our nation was founded by farmers. Our independence was won by farmers."" https://t.co/0TyUtPwyxt",39,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:23:31 +0000 2018,".@POTUS: ""Farmers have always, always, always led the way."" https://t.co/IhdUBGP5ts",40,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:20:42 +0000 2018,".@POTUS: ""We have been working every day to deliver for America's farmers, just as they work every single day to de… https://t.co/7dgeQgrloK",41,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:18:23 +0000 2018,".@POTUS: ""Here as the state slogan goes: 'We see America at its absolute best,' and you're doing well."" https://t.co/ZXHxuOQtfd",42,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:12:37 +0000 2018,.@POTUS is expected to discuss trade and economic issues in Nashville speech https://t.co/GgIRJCYmPM,43,FoxNews
+0.7506,0.0,0.701,0.299,Mon Jan 08 21:09:26 +0000 2018,"""[@realDonaldTrump] is like every politician; he wants to be loved a little bit."" Former Reagan Campaign Manager… https://t.co/7MH993MWk2",44,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 21:04:35 +0000 2018,"TUNE IN: @POTUS to deliver remarks to the American Farm Bureau Federation in Nashville, Tennessee. https://t.co/xCLL1a8GhF",45,FoxNews
+-0.6705,0.391,0.609,0.0,Mon Jan 08 20:58:29 +0000 2018,"Washington state deputy killed, prompting massive manhunt https://t.co/pie42JhUZX",46,FoxNews
+-0.0772,0.163,0.698,0.14,Mon Jan 08 20:56:58 +0000 2018,Ex-wife of slain NBA player agrees to face Tennessee charges https://t.co/PfuFIwazCG,47,FoxNews
+0.4926,0.0,0.834,0.166,Mon Jan 08 20:52:10 +0000 2018,OPINION: Why 2018 could truly be historic for small business (and it's about time!) (via @FoxNewsOpinion) https://t.co/FBYaSIMrSF,48,FoxNews
+0.3612,0.0,0.872,0.128,Mon Jan 08 20:31:04 +0000 2018,".@bykowicz on Michael Wolff's book: ""I feel like this is a story that isn't going away anytime soon.""… https://t.co/bheE3VUuyL",49,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 20:27:54 +0000 2018,Former #Trump administration officials: Where are they now? https://t.co/DjEVSzXxUH,50,FoxNews
+-0.5719,0.239,0.761,0.0,Mon Jan 08 20:26:04 +0000 2018,Trump org attorneys slam ultra-luxe NYC condo building for trying to drop #Trump name from doorway https://t.co/XLmX7yx19q,51,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 20:23:54 +0000 2018,"Texas A&amp;M football reporter Courtney Roland found unharmed, police say https://t.co/MfMns0ftXX",52,FoxNews
+-0.2263,0.137,0.863,0.0,Mon Jan 08 20:22:37 +0000 2018,'Fixer Upper' star @joannagaines demands $150K to take part in lawsuit deposition https://t.co/P4ssEry5Dp,53,FoxNews
+0.4019,0.0,0.838,0.162,Mon Jan 08 20:16:05 +0000 2018,OPINION: Earmarks - those special taxpayer-funded 'favors' for members of Congress - may be back (via… https://t.co/Afzy5kF4Us,54,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 20:12:35 +0000 2018,.@POTUS arrives in Nashville for speech to American Farm Bureau Federation https://t.co/1pIshXDcDA,55,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 20:08:23 +0000 2018,"#Trump lawyers consider possible interview of president by Mueller team, @johnrobertsFox reports… https://t.co/eLMWu342rk",56,FoxNews
+-0.3182,0.15,0.85,0.0,Mon Jan 08 20:03:50 +0000 2018,DOJ official who concealed meetings with #Trump dossier figures loses another job title https://t.co/lW2kqSSLDc,57,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 19:57:14 +0000 2018,.@KatTimpf Teaches Her Own 'Masterclass': How to Be a Cable News Pundit https://t.co/xrxY2tJ1E4,58,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 19:53:32 +0000 2018,.@Judgenap: Mueller Believes Manafort Will Roll Over on President #Trump https://t.co/BgvGb1uQRr,59,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 19:52:48 +0000 2018,"OPINION: @SteveHiltonx: Say goodbye to Alexa and Siri, resist the temptations of Google Home and make your life mor… https://t.co/apem8SGEgP",60,FoxNews
+-0.2732,0.16,0.84,0.0,Mon Jan 08 19:48:30 +0000 2018,"All charges against rancher Cliven Bundy, three others are dismissed https://t.co/Ln4b9FVDPj https://t.co/SPtuUT77It",61,FoxNews
+-0.7906,0.438,0.562,0.0,Mon Jan 08 19:45:16 +0000 2018,"3 dead, 1 injured in apparent murder-suicide at Texas resort, police say https://t.co/ZVDV2PPINg",62,FoxNews
+0.7783,0.0,0.726,0.274,Mon Jan 08 19:43:05 +0000 2018,"""DRAIN THE PUTT"": A @ClemsonUniv student made the crowd erupt into cheers after he sank a 94-foot putt and won $10,… https://t.co/8keK8wnWI2",63,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 19:42:29 +0000 2018,WikiLeaks tweets then deletes link to text of new #Trump book https://t.co/M6qoYwYFDX,64,FoxNews
+-0.4588,0.167,0.833,0.0,Mon Jan 08 19:37:47 +0000 2018,OPINION: @RepMikeTurner: The Obama-era neglect of our military must come to an end (via @FoxNewsOpinion) https://t.co/75TTTDusqA,65,FoxNews
+-0.9349,0.504,0.496,0.0,Mon Jan 08 19:34:27 +0000 2018,"MS-13 gang member who stabbed 15-year-old girl 13 times, sliced off tattoo pleads guilty to brutal killing https://t.co/Q2DCwPSwnF",66,FoxNews
+0.3182,0.0,0.892,0.108,Mon Jan 08 19:31:05 +0000 2018,"Marie Harf on celebrities dubbing @Oprah 'our future president': ""All of these old rules about what is acceptable d… https://t.co/u1kD0945EA",67,FoxNews
+-0.3612,0.254,0.578,0.168,Mon Jan 08 19:27:54 +0000 2018,"JUST IN: @MittRomney treated over summer for prostate cancer, prognosis good https://t.co/jd6xzQSTlu",68,FoxNews
+0.4019,0.0,0.856,0.144,Mon Jan 08 19:27:06 +0000 2018,".@HolmesJosh on celebrities dubbing @Oprah 'our future president':  ""What you're looking at is a Democratic Party t… https://t.co/BCVlfP4upG",69,FoxNews
+-0.612,0.267,0.733,0.0,Mon Jan 08 19:20:08 +0000 2018,"It's Kim Jong Un's birthday (probably), but North Koreans aren't celebrating https://t.co/LW21Oue5zE",70,FoxNews
+0.5574,0.0,0.753,0.247,Mon Jan 08 19:14:56 +0000 2018,Hero whale saves snorkeler from tiger shark in the Pacific Ocean https://t.co/62h0QMnvo4,71,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 19:11:48 +0000 2018,".@RepLizCheney: ""One of the things you can count on with this president is he's not going to be somebody who agrees… https://t.co/KfZR7Lhzmo",72,FoxNews
+-0.8442,0.503,0.497,0.0,Mon Jan 08 19:05:46 +0000 2018,Richie Incognito accused of using 'weak racist slurs' during Jacksonville game https://t.co/q3dpnXyCLP,73,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 18:59:40 +0000 2018,Marchesa designs absent from #GoldenGlobes red carpet https://t.co/dAEeZ8GHo4,74,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 18:56:36 +0000 2018,#Trump administration ends TPS for El Salvador immigrants: What are these temporary protections? https://t.co/Vey7kLfQvU,75,FoxNews
+0.3182,0.0,0.874,0.126,Mon Jan 08 18:53:08 +0000 2018,Loretta Lynn's sister Crystal Gayle asks fans to pray for country legend after Lynn breaks hip https://t.co/uSQySDyu6n,76,FoxNews
+-0.765,0.458,0.542,0.0,Mon Jan 08 18:51:09 +0000 2018,Dem-ordered study to expose illegal online gun sales backfires (via @brookefoxnews) https://t.co/qdH76Yc711,77,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 18:45:45 +0000 2018,Princess Charlotte starts 1st day of school with new portraits https://t.co/2SQvAg9kDw https://t.co/CDVTdUmzlj,78,FoxNews
+0.5095,0.0,0.838,0.162,Mon Jan 08 18:41:54 +0000 2018,".@JessicaTarlov: ""I think that working together is going to really benefit Democrats at this point, because America… https://t.co/EmfFCpwNdN",79,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 18:38:43 +0000 2018,CES 2018: LG Display unveils 65-inch rollable TV https://t.co/f8Qpewd0xr,80,FoxNews
+0.4404,0.0,0.861,0.139,Mon Jan 08 18:35:29 +0000 2018,".@RepDeSantis: Kim Jong Un ""wants to hold onto power at all costs. He's running a country that's effectively a pris… https://t.co/I9iJ4aR5IN",81,FoxNews
+0.6369,0.0,0.802,0.198,Mon Jan 08 18:32:47 +0000 2018,"RT @EricShawnTV: Insight on bringing freedom to #Iran as #Iranprotests, #Iranainprotests and #Iranianprotesters  vow to continue their defi…",82,FoxNews
+0.1513,0.0,0.935,0.065,Mon Jan 08 18:30:46 +0000 2018,"""If you're Kim Jong Un you've got to look at this president and say, 'This may not be somebody I really want to mes… https://t.co/XRI5mRgZsn",83,FoxNews
+-0.765,0.458,0.542,0.0,Mon Jan 08 18:29:20 +0000 2018,"Dem-ordered study to expose illegal online gun sales backfires - via @brookefoxnews
+https://t.co/aLzqz0Bah6",84,FoxNews
+0.7615,0.0,0.681,0.319,Mon Jan 08 18:26:17 +0000 2018,"If you have a case of the Mondays, watch this adorable video of baby sisters hugging. https://t.co/UdEY208BHF",85,FoxNews
+-0.2732,0.139,0.861,0.0,Mon Jan 08 18:21:37 +0000 2018,BREAKING: Federal judge dismisses all charges against Nevada rancher Cliven Bundy and 3 others https://t.co/Ln4b9FVDPj,86,FoxNews
+0.0,0.0,1.0,0.0,Mon Jan 08 18:18:15 +0000 2018,"President #Trump departs Joint Base Andrews for speech to American Farm Bureau in Nashville, TN https://t.co/WZ2BYl1R97",87,FoxNews
+0.5945,0.0,0.795,0.205,Mon Jan 08 18:13:18 +0000 2018,".@RajShah45: ""[The #Trump Administration has] had so many tremendous successes, with @POTUS leading this spectacula… https://t.co/nsV432haSZ",88,FoxNews
+-0.683,0.228,0.772,0.0,Mon Jan 08 18:06:57 +0000 2018,".@RajShah45 on  Michael Wolff’s book “Fire and Fury: Inside the Trump White House”: ""This book has little to no cre… https://t.co/wyGscYQORA",89,FoxNews
+0.5574,0.0,0.795,0.205,Mon Jan 08 17:57:39 +0000 2018,Florida couple's 'getaway' treehouse must come down after Supreme Court declines to hear case https://t.co/xJu37kcXQs,90,FoxNews
+-0.0516,0.225,0.618,0.157,Mon Jan 08 17:54:22 +0000 2018,"Girl saved by firefighters, nurses at basketball tournament after falling into cardiac arrest https://t.co/ekIlx6gDsh",91,FoxNews
+0.3612,0.166,0.51,0.325,Mon Jan 08 17:52:41 +0000 2018,Supreme Court won't step into Mississippi gay rights legal fight https://t.co/ajDwJ5zMDy,92,FoxNews
+0.2263,0.134,0.671,0.195,Mon Jan 08 17:49:01 +0000 2018,.@NAACP calls for 'snowflake' protest against #Trump at College Football Championship https://t.co/8vyDt2UbbX,93,FoxNews
+-0.3612,0.217,0.783,0.0,Mon Jan 08 17:46:59 +0000 2018,"Obamas criticized for lavish library plans, including 'test kitchen' https://t.co/KUnZXeED7P",94,FoxNews
+-0.4404,0.153,0.847,0.0,Mon Jan 08 17:37:34 +0000 2018,".@KennedyNation on Steve Bannon's #Trump criticism: ""When you go after [@POTUS'] family, and particularly his child… https://t.co/UK94HTD5gk",95,FoxNews
+0.1779,0.15,0.654,0.196,Mon Jan 08 17:28:58 +0000 2018,Barbra Streisand slams Golden Globes for lack of female director awards https://t.co/cMVizyjgRu,96,FoxNews
+-0.5719,0.163,0.837,0.0,Mon Jan 08 17:13:21 +0000 2018,".@RepDeSantis on  Michael Wolff’s book “Fire and Fury: Inside the Trump White House”: ""[@POTUS] is not going to let… https://t.co/F6K2JXV4Ef",97,FoxNews
+-0.4767,0.24,0.76,0.0,Mon Jan 08 17:09:34 +0000 2018,"Army Vet Stops Semi-Truck on Highway, Gets Out to Salute Fallen WWII Veteran https://t.co/bX50GbVrKL https://t.co/wPCFNloQxB",98,FoxNews
+-0.4404,0.278,0.585,0.137,Mon Jan 08 17:08:35 +0000 2018,Teen girl who shaved head for charity accused of violating academy's 'extreme haircut' policy https://t.co/EbGiOcpKT2,99,FoxNews
+0.3818,0.0,0.822,0.178,Mon Jan 08 17:06:02 +0000 2018,Incredible Blackbeard discovery: Stunning find on buccaneer's ship reveals pirate reading habits https://t.co/TaPGTZIAF9,100,FoxNews
+0.4767,0.0,0.763,0.237,Mon Jan 08 22:32:04 +0000 2018,The complete list of winners at the 2018 Golden Globes https://t.co/bhC6fTb4B8,1,nytimes
+-0.5574,0.175,0.825,0.0,Mon Jan 08 22:17:03 +0000 2018,New Jersey lifted a ban on a bestselling book about mass incarceration after the ACLU called the prohibition “ironi… https://t.co/BGn8CeeaGR,2,nytimes
+-0.0516,0.152,0.741,0.107,Mon Jan 08 22:00:39 +0000 2018,"“We had hope that if we worked hard, paid our taxes and didn’t get in trouble we would be allowed to stay” https://t.co/X8L2cyVr7Z",3,nytimes
+0.7065,0.119,0.593,0.288,Mon Jan 08 21:47:05 +0000 2018,The genetic fingerprinting methods that have been so successful in the criminal justice system are now being used t… https://t.co/yb8pmDYv99,4,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 21:33:08 +0000 2018,"Opinion: Oprah, don't do it https://t.co/ElEv8o20TP",5,nytimes
+-0.5719,0.198,0.802,0.0,Mon Jan 08 21:20:03 +0000 2018,The @nytimesbooks review of “Fire and Fury: Inside the Trump White House” by Michael Wolff https://t.co/f96fh7MwFn,6,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 21:10:05 +0000 2018,"RT @rpogrebin: BIG ART NEWS A Mega-dealer is getting more mega: David Zwirner is planning a new $50m gallery in Chelsea, designed by Renzo…",7,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 20:55:04 +0000 2018,"Just about anyone can enter this visa-free zone between Kazakhstan and China — that is, except for men with long be… https://t.co/7Wl4cMH8zS",8,nytimes
+-0.0516,0.07,0.93,0.0,Mon Jan 08 20:46:56 +0000 2018,"Another NYT reader's reaction to the Trump administration announcement that nearly 200,000 Salvadorans must leave t… https://t.co/WEhbmWmmQA",9,nytimes
+-0.0516,0.074,0.926,0.0,Mon Jan 08 20:40:12 +0000 2018,"A reader reacting to the Trump administration announcement that nearly 200,000 Salvadorans must leave the U.S.… https://t.co/KuCCc2U12J",10,nytimes
+-0.2732,0.095,0.905,0.0,Mon Jan 08 20:25:06 +0000 2018,"The charges against the Bundys, who led an armed standoff at their ranch in 2014, have been dismissed by a federal… https://t.co/mwlFaxG1qr",11,nytimes
+0.0258,0.176,0.644,0.18,Mon Jan 08 20:10:06 +0000 2018,"Best: Oprah Winfrey's speech, Natalie Portman's one-liner 
+Worst: Mostly silent men, some of those red-carpet inter… https://t.co/xttPAYDe4N",12,nytimes
+-0.7579,0.255,0.745,0.0,Mon Jan 08 19:55:13 +0000 2018,"How an abolitionist, pro-North Civil War hymn came to be the fight song of a football team in the Deep South https://t.co/Nl908Tb50x",13,nytimes
+-0.1154,0.065,0.935,0.0,Mon Jan 08 19:40:06 +0000 2018,"Carrie Gracie said she was offered a raise before resigning as the BBC’s China editor, but one that still did not b… https://t.co/fjI9hJ0OIN",14,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:25:02 +0000 2018,RT @nytimesES: Casi 200.000 salvadoreños que tenían permiso de vivir en Estados Unidos por más de una década ahora deberán irse del país. h…,15,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:10:04 +0000 2018,"Marinate today, grill tomorrow https://t.co/JoFJ3RdE5z",16,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:00:09 +0000 2018,RT @comradewong: How will a reborn Chinese empire shape the world? My thoughts on leaving China after nearly a decade reporting there for t…,17,nytimes
+-0.765,0.28,0.72,0.0,Mon Jan 08 18:47:55 +0000 2018,Breaking News: A fraternity has been banned from operating in Pennsylvania for 10 years after a pledge died in a 20… https://t.co/yIZI20F5MF,18,nytimes
+0.4404,0.0,0.854,0.146,Mon Jan 08 18:35:09 +0000 2018,"A handful of Mexican towns and cities are effectively seceding from the state. Sometimes with money, sometimes with… https://t.co/0yVm5GFYnA",19,nytimes
+-0.5106,0.226,0.656,0.118,Mon Jan 08 18:20:28 +0000 2018,"RT @adamliptak: “I have wondered if black people even have souls,” said a juror in a death penalty case.  On Monday, the Supreme Court call…",20,nytimes
+0.4767,0.0,0.763,0.237,Mon Jan 08 22:32:04 +0000 2018,The complete list of winners at the 2018 Golden Globes https://t.co/bhC6fTb4B8,21,nytimes
+-0.5574,0.175,0.825,0.0,Mon Jan 08 22:17:03 +0000 2018,New Jersey lifted a ban on a bestselling book about mass incarceration after the ACLU called the prohibition “ironi… https://t.co/BGn8CeeaGR,22,nytimes
+-0.0516,0.152,0.741,0.107,Mon Jan 08 22:00:39 +0000 2018,"“We had hope that if we worked hard, paid our taxes and didn’t get in trouble we would be allowed to stay” https://t.co/X8L2cyVr7Z",23,nytimes
+0.7065,0.119,0.593,0.288,Mon Jan 08 21:47:05 +0000 2018,The genetic fingerprinting methods that have been so successful in the criminal justice system are now being used t… https://t.co/yb8pmDYv99,24,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 21:33:08 +0000 2018,"Opinion: Oprah, don't do it https://t.co/ElEv8o20TP",25,nytimes
+-0.5719,0.198,0.802,0.0,Mon Jan 08 21:20:03 +0000 2018,The @nytimesbooks review of “Fire and Fury: Inside the Trump White House” by Michael Wolff https://t.co/f96fh7MwFn,26,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 21:10:05 +0000 2018,"RT @rpogrebin: BIG ART NEWS A Mega-dealer is getting more mega: David Zwirner is planning a new $50m gallery in Chelsea, designed by Renzo…",27,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 20:55:04 +0000 2018,"Just about anyone can enter this visa-free zone between Kazakhstan and China — that is, except for men with long be… https://t.co/7Wl4cMH8zS",28,nytimes
+-0.0516,0.07,0.93,0.0,Mon Jan 08 20:46:56 +0000 2018,"Another NYT reader's reaction to the Trump administration announcement that nearly 200,000 Salvadorans must leave t… https://t.co/WEhbmWmmQA",29,nytimes
+-0.0516,0.074,0.926,0.0,Mon Jan 08 20:40:12 +0000 2018,"A reader reacting to the Trump administration announcement that nearly 200,000 Salvadorans must leave the U.S.… https://t.co/KuCCc2U12J",30,nytimes
+-0.2732,0.095,0.905,0.0,Mon Jan 08 20:25:06 +0000 2018,"The charges against the Bundys, who led an armed standoff at their ranch in 2014, have been dismissed by a federal… https://t.co/mwlFaxG1qr",31,nytimes
+0.0258,0.176,0.644,0.18,Mon Jan 08 20:10:06 +0000 2018,"Best: Oprah Winfrey's speech, Natalie Portman's one-liner 
+Worst: Mostly silent men, some of those red-carpet inter… https://t.co/xttPAYDe4N",32,nytimes
+-0.7579,0.255,0.745,0.0,Mon Jan 08 19:55:13 +0000 2018,"How an abolitionist, pro-North Civil War hymn came to be the fight song of a football team in the Deep South https://t.co/Nl908Tb50x",33,nytimes
+-0.1154,0.065,0.935,0.0,Mon Jan 08 19:40:06 +0000 2018,"Carrie Gracie said she was offered a raise before resigning as the BBC’s China editor, but one that still did not b… https://t.co/fjI9hJ0OIN",34,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:25:02 +0000 2018,RT @nytimesES: Casi 200.000 salvadoreños que tenían permiso de vivir en Estados Unidos por más de una década ahora deberán irse del país. h…,35,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:10:04 +0000 2018,"Marinate today, grill tomorrow https://t.co/JoFJ3RdE5z",36,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 19:00:09 +0000 2018,RT @comradewong: How will a reborn Chinese empire shape the world? My thoughts on leaving China after nearly a decade reporting there for t…,37,nytimes
+-0.765,0.28,0.72,0.0,Mon Jan 08 18:47:55 +0000 2018,Breaking News: A fraternity has been banned from operating in Pennsylvania for 10 years after a pledge died in a 20… https://t.co/yIZI20F5MF,38,nytimes
+0.4404,0.0,0.854,0.146,Mon Jan 08 18:35:09 +0000 2018,"A handful of Mexican towns and cities are effectively seceding from the state. Sometimes with money, sometimes with… https://t.co/0yVm5GFYnA",39,nytimes
+-0.5106,0.226,0.656,0.118,Mon Jan 08 18:20:28 +0000 2018,"RT @adamliptak: “I have wondered if black people even have souls,” said a juror in a death penalty case.  On Monday, the Supreme Court call…",40,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 18:10:13 +0000 2018,"Nearly 200,000 people from El Salvador who have been allowed to live in the U.S. for more than a decade must leave… https://t.co/XOPsyYGjKI",41,nytimes
+0.0258,0.11,0.735,0.155,Mon Jan 08 18:00:17 +0000 2018,RT @ThomasErdbrink: “The problem is that we want two generations after us to live the way we like them to.” https://t.co/HP2qmmJfks,42,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 17:50:19 +0000 2018,"At least 4 people from 3 states have lined up to claim Charles Manson’s body, his property or both in the weeks sin… https://t.co/seg8USY4ll",43,nytimes
+-0.5423,0.163,0.837,0.0,Mon Jan 08 17:40:13 +0000 2018,"“We’re already taxed and harassed, and soon they’ll be charging for air,” one fruit and vegetable vendor said https://t.co/P9t15mbBXF",44,nytimes
+0.5859,0.0,0.853,0.147,Mon Jan 08 17:30:03 +0000 2018,"RT @dansaltzstein: We got 13,000 applications for our 52 Places Traveler job. We'll announce the winner later this week. In the meantime, a…",45,nytimes
+0.6962,0.0,0.776,0.224,Mon Jan 08 17:20:03 +0000 2018,"""The result was one of the most elegant, genuinely chic red carpets I’ve seen in Hollywood. Given meaning by the wo… https://t.co/kvzhTsZrCV",46,nytimes
+-0.4973,0.114,0.886,0.0,Mon Jan 08 17:10:08 +0000 2018,"RT @jessbidgood: ""You have to shout to be heard above the wind, but you have nothing intelligent to say.” @kseelye on our trip up Mt. Washi…",47,nytimes
+0.7506,0.0,0.67,0.33,Mon Jan 08 17:00:19 +0000 2018,A strong economy typically lifts a president's approval ratings. President Trump seems to be an exception. https://t.co/lFQBzplPI9,48,nytimes
+-0.2023,0.141,0.859,0.0,Mon Jan 08 16:45:05 +0000 2018,Here’s a look at the highs and lows of Golden Globes night https://t.co/GFGXxBlCo1,49,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 16:41:02 +0000 2018,It was so hot in Australia that the asphalt melted on a stretch of highway https://t.co/CZAndxpbjy,50,nytimes
+0.7125,0.0,0.771,0.229,Mon Jan 08 16:30:22 +0000 2018,"RT @melbournecoal: The new editor of GLAMOUR is...Samantha Barry, the first top editor at Condé Nast with an exclusively digital and televi…",51,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 16:20:07 +0000 2018,FEMA is substantially redrawing New York City’s flood maps to account for climate change. Deciding who is in the fl… https://t.co/AgwOw3TItV,52,nytimes
+-0.4215,0.188,0.725,0.087,Mon Jan 08 16:10:04 +0000 2018,"RT @marcatracy: Tonight, Georgia's band will over and over play a Georgia fight song. It's ""Battle Hymn of the Republic."" How the Civil War…",53,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 16:00:34 +0000 2018,Do parents make kids fat? https://t.co/4YjB4jynMC,54,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 15:55:07 +0000 2018,"RT @nytvideo: The Trump administration will end a program that allowed nearly 200,000 people from El Salvador to stay in the U.S. In this v…",55,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 15:51:07 +0000 2018,Some of the economic policies Trump's administration is pursuing are at odds with what many in the farm industry sa… https://t.co/Z6Fw7JV7x9,56,nytimes
+0.5994,0.0,0.754,0.246,Mon Jan 08 15:41:05 +0000 2018,"RT @nytopinion: Trump's defenders have learned to praise him in order to steady him, writes @CharlesMBlow https://t.co/M4ihQXJKG9",57,nytimes
+-0.836,0.294,0.706,0.0,Mon Jan 08 15:33:07 +0000 2018,"Recy Taylor, who Oprah Winfrey mentioned in her Golden Globes speech, was abducted and raped by 6 white men in 1944… https://t.co/yNKXXg9dpp",58,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 15:20:13 +0000 2018,"President Hassan Rouhani of Iran lashed out at his hard-line opponents: ""One cannot force one's lifestyle on the fu… https://t.co/Q3IPF3oHOu",59,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 15:20:05 +0000 2018,"Breaking News: Nearly 200,000 Salvadorans allowed to live in the U.S. temporarily after 2 earthquakes in 2001 must… https://t.co/m3rU3Opnnb",60,nytimes
+0.0258,0.1,0.794,0.105,Mon Jan 08 15:11:08 +0000 2018,RT @NYTScience: “There’s this hollowness yet this ghostlike pain still there which is fascinating from a scientific perspective but horrifi…,61,nytimes
+-0.128,0.067,0.933,0.0,Mon Jan 08 15:10:07 +0000 2018,"Seth Meyers wisecracked about the notion that Oprah Winfrey might run for president. By the end of her speech, it s… https://t.co/225ffDJ7bI",62,nytimes
+0.7125,0.0,0.762,0.238,Mon Jan 08 15:04:55 +0000 2018,"RT @melbournecoal: BREAK: GLAMOUR has chosen its next top editor: Samantha Barry, an executive producer at CNN. Her digital and television…",63,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 15:00:35 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/nv888KXNiY https://t.co/VofYEJ5Wmx,64,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 14:46:05 +0000 2018,Video: #MeToo leads at the Golden Globes https://t.co/FGqPe6hoY2,65,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 14:41:02 +0000 2018,"Last May, Jared Kushner accompanied President Trump on the pair’s first diplomatic trip to Israel.
+
+Shortly before,… https://t.co/Wh8ixjfeAJ",66,nytimes
+-0.2732,0.198,0.684,0.118,Mon Jan 08 14:36:33 +0000 2018,"RT @UpshotNYT: The jobless rate is low; so are the president's approval ratings. Historically, there is something wrong with this picture.…",67,nytimes
+-0.8126,0.364,0.571,0.064,Mon Jan 08 14:31:09 +0000 2018,A fire broke out near the top of Trump Tower in New York. A firefighter was hurt by falling debris and 2 civilians… https://t.co/4hDyD7QG0Z,68,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 14:15:14 +0000 2018,Eight pairs of actresses and activists attended the Golden Globes together. Here's what the talked about. https://t.co/sGsKyd6ayI,69,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 14:00:22 +0000 2018,Bannon needs Breitbart. Does Breitbart need Bannon? https://t.co/tZJwuNPPJN,70,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 13:46:07 +0000 2018,Natalie Portman delivered a line that instantly landed among the Golden Globes's most memorable https://t.co/MfWRlh8Qst,71,nytimes
+0.0258,0.155,0.687,0.159,Mon Jan 08 13:32:06 +0000 2018,"""The Globes still celebrated the power players of a system in which Harvey Weinstein, whose abuses precipitated the… https://t.co/Wd3YTSqaSn",72,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 13:00:28 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/23Cz3w9O2c https://t.co/CZj0pS6XM0,73,nytimes
+-0.7096,0.296,0.704,0.0,Mon Jan 08 12:45:15 +0000 2018,Iran has banned the teaching of English in primary schools to block Western “cultural invasion” https://t.co/aN2PrcD34n,74,nytimes
+-0.7003,0.254,0.746,0.0,Mon Jan 08 12:31:05 +0000 2018,"A senior BBC News editor accused the network of operating a ""secretive and illegal"" salary system that pays men mor… https://t.co/JB8M9n4B4r",75,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 12:15:09 +0000 2018,A transcript of Seth Meyers's Golden Globes monologue https://t.co/MeEYazWZ6h,76,nytimes
+0.2732,0.0,0.89,0.11,Mon Jan 08 12:00:21 +0000 2018,"President Trump defended his fitness for office after a new book raised questions about his mental health, calling… https://t.co/AZZgNfvkgC",77,nytimes
+0.0258,0.0,0.942,0.058,Mon Jan 08 11:50:08 +0000 2018,"Stephen Bannon tried backing away from his explosive comments, saying that the younger Trump was ""both a patriot an… https://t.co/TpdTx9rGoe",78,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 11:40:13 +0000 2018,"Read speeches from Elisabeth Moss, Laura Dern, Frances McDormand and Gary Oldman https://t.co/vXYIWzJyXj",79,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 11:30:06 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/onNxHFF46I https://t.co/uC0AobaWGP,80,nytimes
+-0.2732,0.091,0.909,0.0,Mon Jan 08 11:21:02 +0000 2018,"An Iranian oil tanker that collided with another ship off China's coast is at risk of exploding and sinking, the Ch… https://t.co/XrCcYABhA0",81,nytimes
+0.4215,0.0,0.877,0.123,Mon Jan 08 11:11:02 +0000 2018,"RT @nytimesworld: Remember the “new Coke” blunder? The makers of Irn Bru, a popular Scottish soda, are facing a similar uproar from custome…",82,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 11:00:23 +0000 2018,Israel published a blacklist of 20 organizations whose leaders it has barred from entering the country for supporti… https://t.co/SSYCUKsLvl,83,nytimes
+0.5267,0.0,0.784,0.216,Mon Jan 08 10:46:03 +0000 2018,"The strongest challenger to Egypt’s leader withdrew from the country’s presidential race, with his lawyer saying th… https://t.co/o6dlzUHSaX",84,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 10:29:02 +0000 2018,Read Oprah Winfrey's Golden Globes speech https://t.co/Q3O0v5mAmu,85,nytimes
+-0.4215,0.128,0.872,0.0,Mon Jan 08 10:15:12 +0000 2018,The police in Belfast said they were investigating a tweet by a member of Parliament who appeared to mock the anniv… https://t.co/hPyVFiNOXj,86,nytimes
+0.4767,0.0,0.763,0.237,Mon Jan 08 09:59:03 +0000 2018,The complete list of winners at the 2018 Golden Globes https://t.co/BbxDaUeBJV,87,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 09:44:04 +0000 2018,RT @nytimesworld: How do you maintain a fence nearly twice as long as the U.S.-Mexico border? Ask Australia. https://t.co/tIvo6eTjgH,88,nytimes
+-0.4404,0.146,0.854,0.0,Mon Jan 08 09:31:01 +0000 2018,"Opinion: ""America is upside down and inside out. There's meaningless make-believe in the capital of politics. There… https://t.co/D9MIieTr87",89,nytimes
+-0.25,0.1,0.9,0.0,Mon Jan 08 09:16:05 +0000 2018,"Countries are unsure whether to take President Trump's words as policy pronouncements, or whether they can be safel… https://t.co/w3BeqjVQSX",90,nytimes
+-0.7096,0.296,0.704,0.0,Mon Jan 08 08:52:06 +0000 2018,Iran has banned the teaching of English in primary schools to block Western “cultural invasion” https://t.co/jod8Mlwjar,91,nytimes
+0.6187,0.082,0.69,0.229,Mon Jan 08 08:37:05 +0000 2018,"RT @FrankBruni: In this anxious time of absent leadership, I found reassurance in the gestures, words and work honored at the Golden Globes…",92,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 08:22:05 +0000 2018,"Heavy snowfall. Face-freezing temperatures. Around the globe, another winter phenomenon was in full force: rescuing… https://t.co/YlGk9Halee",93,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 08:07:11 +0000 2018,"Will Steve Bannon be able to hang on to Breitbart News?
+ https://t.co/aLi0eFHf1C",94,nytimes
+0.4019,0.0,0.891,0.109,Mon Jan 08 07:52:01 +0000 2018,"RT @nytimesarts: The Golden Globes was a half-protest, half party, where some stars spoke out for #TimesUp and others let their pins do the…",95,nytimes
+0.5106,0.061,0.711,0.228,Mon Jan 08 07:37:06 +0000 2018,Can tech companies like Google and Paytm convince Indian consumers to leave their cash at home? https://t.co/m4jc3kUfzS,96,nytimes
+0.5719,0.0,0.709,0.291,Mon Jan 08 07:22:06 +0000 2018,The votes are in: Oprah Winfrey won the night https://t.co/bueoAJBdn1,97,nytimes
+0.5859,0.0,0.84,0.16,Mon Jan 08 07:07:03 +0000 2018,RT @sewellchan: I was moved by @Oprah's remarks about Recy Taylor — and honored to have written our @NYTObits obituary about her: https://t…,98,nytimes
+0.3818,0.0,0.874,0.126,Mon Jan 08 06:52:00 +0000 2018,"Walking or cycling changes the makeup of our gut bacteria in ways that may promote health, a study found https://t.co/H3YPWim14a",99,nytimes
+0.0,0.0,1.0,0.0,Mon Jan 08 06:37:04 +0000 2018,A suburb in Australia just had the hottest day on record https://t.co/ZhX1ngFRiW,100,nytimes
